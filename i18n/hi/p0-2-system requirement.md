@@ -1,10 +1,10 @@
 ---
 id: p0-2-system requirement
-sidebar_label:  System Requirements
+sidebar_label: System Requirements
 title: System Requirements
 ---
 
-Supported System
+**Supported System**
 
 **Scribe** is supported by the following operating systems
 
