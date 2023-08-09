@@ -1,22 +1,13 @@
 ---
-id: p1-2-app-language
-sidebar_label: App Language
-title: App Language
+id: p1-3-notifications
+sidebar_label: Notifications
+title: Notifications
 ---
 
-**How to use App Language**
+- Click on the **bell** icon <img src="/assets/notification.png" width="30px" alt="" /> at the top right side of the screen next to the **New Layout** icon
+  - Here you will find a list of **Notifications**
+  - Each type of notification will have a different color
 
-- Go to the **Profile** icon on the top right side of the screen
-- Click and select  **Your Profile**
-- Choose the language you want to work in from the App language drop-down menu
-
-**Scribe supports the following languages**
-  - English
-  - Hindi
-  - Russian
-  - Farsi
-  - French
-  - Nepali
-- Click **Save** button to save the changes
-
-<img src="/assets/applanguage.png"  width="1000px" alt="project listing" />
+To return to the main page, click on the <—— arrow on the top left side of the screen.
+<img src="/AutographaV2-1-0/notification1.png"  width="1000px" alt="notification" />
+<img src="/AutographaV2-1-0/notification2.png"  width="1000px" alt="notification" />
