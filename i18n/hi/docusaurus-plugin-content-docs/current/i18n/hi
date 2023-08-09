@@ -1,13 +1,17 @@
 ---
-id: p5-4-font size
-sidebar_label: Font Size
-title: Font Size
+id: p5-5-Sync
+sidebar_label: Sync
+title: Sync
 ---
 
-Steps to change the Font Size of your project
+The **Sync** button enable the users to sync the project within the editor pane itself.
 
-- Find the **text** icon <img src="/assets/font-size.png" width="50px" alt="" /> on the top right corner of the **Translation column**
-- Select the small letter A to make the font size smaller
-- Select the big letter A to make the font size larger
+**Steps to Sync the project**
 
-<video controls src="/assets/change-font.mov" width="100%" type="video/mov">
+- Click the **Sync** button <img src="/assets/cloudsyncbutton.png" alt="Windows Icon" width="50px" /> above the editor pane
+- A dialogue box opens
+    - If the user has not signed in Go to the main Sync page Sign in to Door 43 account
+    - If already signed in Choose the user name for Door 43 Click Sync button
+
+<video controls src="/assets/projectsync.mov" width="100%" type="video/mp4">
+
