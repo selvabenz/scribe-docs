@@ -1,15 +1,22 @@
 ---
-id: p1-1-profile
-sidebar_label: Profile
-title: Profile
+id: p1-2-app-language
+sidebar_label: App Language
+title: App Language
 ---
 
-**Profile** page has the all the information about the user. All data input is optional and is stored locally on your computer.
+**How to use App Language**
 
-- On the projects page, on the top right side there is a **Profile** icon
-- Click on your **Profile** to add necessary information
-- Click **Save** button to save the information
+- Go to the **Profile** icon on the top right side of the screen
+- Click and select  **Your Profile**
+- Choose the language you want to work in from the App language drop-down menu
 
+**Scribe supports the following languages**
+  - English
+  - Hindi
+  - Russian
+  - Farsi
+  - French
+  - Nepali
+- Click **Save** button to save the changes
 
-
-<video controls src="/assets/profile.mov" width="100%" type="video/mov">
+<img src="/assets/applanguage.png"  width="1000px" alt="project listing" />
