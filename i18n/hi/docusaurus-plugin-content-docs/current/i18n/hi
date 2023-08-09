@@ -1,27 +1,13 @@
 ---
-id: p5-3-menu bar
-sidebar_label: Menu Bar
-title: Menu Bar
+id: p5-4-font size
+sidebar_label: Font Size
+title: Font Size
 ---
 
-The top navigation bar contains a menu on the left side, offering options such as File, Edit, and About.
+Steps to change the Font Size of your project
 
-**FILE**
+- Find the **text** icon <img src="/assets/font-size.png" width="50px" alt="" /> on the top right corner of the **Translation column**
+- Select the small letter A to make the font size smaller
+- Select the big letter A to make the font size larger
 
-The **File** menu is located on the top left side of the **Translation Column.** Click on the **File** feature to view your **bookmarks** or change the text font.
-<img src="/AutographaV2-1-0/filemenu.png"  width="1000px" alt="file menu" />
-
-
-<!-- **EDIT** 
-
-The **Edit** feature is located on the top left side of the **Translation column,** next to the **File** feature.
-At the moment, **Scribe** only supports “S” editing or “Section Headings.”
-- Click on the letter “S” on the screen to add a section heading.Show an example image that highlights the section heading
-
-<img src="/assets/edit.png"  width="1000px" alt="notification" /> -->
-
-
-
-**ABOUT**
-
-The **About** feature is located on the top left side of the **Translation column**, next to the **Edit** feature. The **About** feature provides information about **Scribe Scripture version** and discloses **Scribe’s license** and **source code.** <img src="/AutographaV2-1-0/about.png"  width="1000px" alt="about" />
+<video controls src="/assets/change-font.mov" width="100%" type="video/mov">
