@@ -1,9 +1,15 @@
 ---
-id: p11-1-technical support
-sidebar_label: Technical Support
-title: Technical Support
+id: p1-1-profile
+sidebar_label: Profile
+title: Profile
 ---
 
-Our Technical Support Team is available to answer any question or concern regarding **Scribe**. You can report an issue or ask a query about **Scribe** by emailing us at scribe@bridgeconn.com. If you are registered as a GitHub user, you may raise an issue on GitHub after logging in with your credentials here: https://github.com/bible-technology/scribe-scripture-editor/issues.
+**Profile** page has the all the information about the user. All data input is optional and is stored locally on your computer.
 
-We track any issue or query reported via GitHub, and you can explore the development team’s current work at https://github.com/bible-technology/scribe-scripture-editor. All contributions are welcome!
+- On the projects page, on the top right side there is a **Profile** icon
+- Click on your **Profile** to add necessary information
+- Click **Save** button to save the information
+
+
+
+<video controls src="/assets/profile.mov" width="100%" type="video/mov">
