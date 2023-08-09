@@ -1,16 +1,13 @@
 ---
-id: p6-1-editing text
-sidebar_label: Editing Text
-title: Editing Text
+id: p6-2-navigationlock
+sidebar_label: Navigation Lock
+title: Navigation Lock
 ---
 
 <h3> In this version, this function is not available </h3>
 
-The **Edit** feature is located on the top left side of the **Translation column,** next to the **File** feature.
+-   Click on the lock icon <img src="/autographaAssetsV2/how-to/lock.png" width="30px" alt=""/> on the top-right corner of the **Editor column.** 
+-   By locking the editor column, the resource columns will follow the same reference that the editing column is currently on. So clicking on different verses in the editing column would update the resource panes accordingly.
+-   By unlocking the editor column, the resource columns will remain on the last verse the user clicked on before unlocking. This also allows the user to independently explore separate references in the resource sections.
 
-At the moment, **Scribe** only supports **S** editing or **Section Headings**.
-
--   Click on the letter **S** on the screen to add a section heading
--   Show an example image that highlights the section heading
-
-<img src="/assets/edit.png"  width="1000px" alt="notification"/>
+<!-- <video controls src="/assets/lock-unlock.mov" width="100%" type="video/mov"/> -->
