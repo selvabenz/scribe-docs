@@ -1,15 +1,22 @@
 ---
-id: p1-1-profile
-sidebar_label: Profile
-title: Profile
+id: p1-2-app-language
+sidebar_label: ऐप भाषा
+title: ऐप भाषा
 ---
 
-**Profile** page has the all the information about the user. All data input is optional and is stored locally on your computer.
+**ऐप भाषा का उपयोग कैसे करें**
 
-- On the projects page, on the top right side there is a **Profile** icon
-- Click on your **Profile** to add necessary information
-- Click **Save** button to save the information
+- स्क्रीन के ऊपर दाईं ओर प्रोफाइल आइकन पर जाएं
+- क्लिक करें और **अपनी प्रोफ़ाइल** चुनें
+- ऐप भाषा ड्रॉप-डाउन मेनू से वह भाषा चुनें जिसमें आप काम करना चाहते हैं
 
+**स्क्रिब निम्नलिखित भाषाओं का समर्थन करता है**
+  - अंग्रेज़ी
+  - हिंदी
+  - रूसी
+  - फारसी
+  - फ्रांसीसी
+  - नेपाली
+- परिवर्तनों को सहेजने के लिए **सहेजें **बटन पर क्लिक करें
 
-
-<video controls src="/assets/profile.mov" width="100%" type="video/mov">
+<img src="/assets/applanguage.png"  width="1000px" alt="परियोजना सूचीकरण" />
