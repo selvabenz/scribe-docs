@@ -1,13 +1,15 @@
 ---
-id: p1-3-notifications
-sidebar_label: Notifications
-title: Notifications
+id: p0-1-what-is-scribe
+sidebar_label: What is Scribe SE?
+title: What is Scribe SE?
+slug: '/'
 ---
 
-- Click on the **bell** icon <img src="/assets/notification.png" width="30px" alt="" /> at the top right side of the screen next to the **New Layout** icon
-  - Here you will find a list of **Notifications**
-  - Each type of notification will have a different color
+**Scribe Scripture Editor** is an easy-to-use Bible translation tool designed to empower mother tongue translators to quickly and efficiently complete various tasks related to Bible translation with minimal training.
 
-To return to the main page, click on the <—— arrow on the top left side of the screen.
-<img src="/AutographaV2-1-0/notification1.png"  width="1000px" alt="notification" />
-<img src="/AutographaV2-1-0/notification2.png"  width="1000px" alt="notification" />
+
+**Scribe SE** supports different flavours such as Bible Translation, Open Bible Stories (OBS) and Oral Bible Translation (Audio). Bible translations from the source text can be drafted and edited with the help of **Scribe**. Additionally, it allows translators to import and export [Scripture Burrito](https://docs.burrito.bible/) format, it also allows importing USFM files from the local system. Users can work on multiple projects simultaneously.
+
+  Multiple reference panels are available for the translator to use when looking for information or seeking clarity in the source text. In resource panes the translator can load different resources like Bibles, translation notes, translation words list, translation words, translation questions, translation academy, Open Bible Stories, OBS translation notes, OBS translation question, OBS translation words list and Audio Bible resources as reference material.
+
+*Note*: **The Scribe Scripture Editor (Scribe SE) will hereafter be referred to as Scribe in this document.**
