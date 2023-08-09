@@ -1,3 +1,3 @@
 files:
-  - source: /**/scribe
-    translation: /**/i18n/%two_letters_code%
+  - source: /**/i18n/en/docusaurus-plugin-content-docs/current/scribe
+    translation: /**/i18n/%two_letters_code%/%original_file_name%
