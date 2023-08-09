@@ -1,35 +1,18 @@
 ---
-id: p3-1-projects
-sidebar_label: Projects
-title: Projects
+id: p3-2-edit project details
+sidebar_label: Edit Project Details
+title: Edit Project Details
 ---
 
-**Project Listing**
+- On the project's page, find the project you wish to edit
+- Click on the arrow on the right side of the project information
+- This will expand the project information
+- To **Edit** the project details, click on the three dots menu
+- Then select **Edit**
+- You will be directed to the Edit project page, where you may make the changes that are required
 
-Once you’ve signed in, you will see the project listing screen. This is where all the projects you create will be displayed. 
+<video controls src="/assets/editing-project.mov" width="100%" type="video/mov">
 
-<img src="/AutographaV2-1-0/project-listing.png"  width="1000px" alt="project listing"/>
+By following the previous list of instructions, you will be directed to the **Edit Project** page of the app.
 
-**Star and Unstar**
-
--   Click on the **star** next to the project name			 
--   This will pin the project to the top of the list
-    <video controls src="/assets/staring-project.mov" width="100%" type="video/mov"/>
-
-**Searching and Sorting**
-
-**Searching**
-
-The user can **search** for the project by typing its name, flavour or language name  into the search box in the top navigation bar.
-
-**Sorting**
-
-The projects in Scribe can be sorted in the following ways.
-
--   Project name (Projects are sorted alphabetically from A-Z and Z-A)
--   Language name (In alphabetical order, it lists each language group)
--   Flavour (It groups the same flavours together after sorting)
--   Created Date (Sorts the projects from old to new and new to old, based on the date they were created.)
--   Last Viewed (Organises the projects in order of last viewed to recent viewed and vice versa)
-
-<video controls src="/assets/serachsort.mov" width="100%" type="video/mov"/>
+Another interesting feature on the **Edit Project** screen is the **Advanced Settings.**
