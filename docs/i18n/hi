@@ -1,72 +1,41 @@
 ---
-id: p0-3-installation
-sidebar_label: Installation
-title: Installation
+id: p0-4-create a new account
+sidebar_label: Create a New Account
+title: Create a New Account
 ---
 
--   Go to https://github.com/bible-technology/scribe-scripture-editor/releases/
--   To download click the **Scribe** program that matches your computer's Operating System (OS) 
-    -   Supported Operating System 
-        -   Windows
-        -   Mac 
-        -   Ubuntu
+In order to start translating with the help of **Scribe** application, the user must have an account.
 
-**Steps to Install Scribe on Windows OS**
+**Steps to create an account**
 
--   Right click or Double-click the application file (scribe.exe) you've downloaded from the GitHub
--   On the menu option, select **Run** or **Open**
+- Open the **Scribe** application installed on the computer
+- Choose **CREATE NEW ACCOUNT** button
+- In the pop-up window that appears, enter the user name and click **CREATE**
+- The user's account will be created, and the user can start using the **Scribe** application
 
-**Windows OS restrictions:** If you receive a pop-up screen with the message, “Windows protected your PC,” perform the following actions.
+**For existing users**
 
--   Click on the **More Info** button
-    <img src="/assets/windows_p.png"  width="1000px" alt=""/>
--   Click the **Run Anyway** button at the bottom of the window
-    <img src="/assets/runanyway.png"  width="1000px" alt=""/>
--   Choose Installation options **Only for me**
--   Click **Next** to proceed
-    <img src="/assets/only.png"  width="1000px" alt=""/>
--   Choose install location if neccessary, the application's default destination folder location is advised
-    <img src="/assets/installlocation.png"  width="1000px" alt=""/>
--   Follow the instructions in the installation window until **Finish** appears
-    <img src="/assets/finish.png"  width="1000px" alt=""/>
--   After installing the application, you can use the **Scribe** shortcut automatically created for you on the Desktop to access the application
-    <video controls src="/assets/how-to-install-1.2.0.mov" width="100%" type="video/mov"/>
+- If you already have an account, sign in by selecting your username from the View More menu
+- This opens the **PROJECTS Page** for the users to work in **Scribe**
 
-Note: Some devices may prevent the installation of **Scribe** because of operating system restrictions. 
+<video controls src="/assets/signing-in.mov" width="100%" type="video/mov">
 
-**Steps to Install Scribe on Mac OS**
+<h2>Sign in function </h2>
 
--   Double-click the application file (scribe.dmg) you've downloaded from the GitHub
-    <img src="/assets/download.png"  width="1000px" alt=""/>
--   Drag the application to the **Applications** folder
-    <img src="/assets/drag.png"  width="1000px" alt=""/>
--   Open the application from the **Application Launcher**
+**Scribe** enables multiple users on the same computer to use the same application while maintaining separate project data. It can be difficult to locate the project and user name when multiple users are using the same computer To assist with this, there is a **View More** option on the **Sign In** page. This feature allows users to choose between **active** and **inactive users**.
 
-**Mac OS restrictions:** If you receive a pop-up screen with the message, **Scribe** cannot be opened because the developer cannot be verified,” perform the following actions. 
+**Steps**
+- Click on the **View More** button
+- There are two options on the page, **Active**  and **Archived**
+- The list of the Active users is displayed in the **Active** section
+- You can Archive the Inactive users by clicking the delete button next to the user name
+- The chosen user name will be **Archived**
 
--   A pop-up message will appear on the screen saying, **“macOS cannot verify the developer of “Scribe-Scripture-Editor”. Are you sure you want to open it?”**
-    <img src="/assets/first.png"  width="1000px" alt=""/>
--   Click **Open** on the pop-up window
--   Open **System Settings**
--   Go to the left sidebar and choose the **Privacy and Security** tap
--   Under **Security**, choose **App Store and identified developers**
--   Click **Open Anyway**
--   Enter user's password to confirm the selection
-    <img src="/assets/password.png"  width="1000px" alt=""/>
--   Click **Modify Settings** to launch the application automatically
-    <img src="/assets/modify.png"  width="1000px" alt=""/>
+**To restore the Archived user name**
+- Click on **View More**
+- Select the **Archive** tab
+- A list of Archived user names appears
+- Next to the user name, click the **Restore** icon
+- The selected user name appears in the **Active** list
 
-**Steps to Install Scribe on Ubuntu OS**
-
--   Locate the downloaded (scribe.deb) package. By default, the system stores downloaded files in the **Downloads** directory
-    <img src="/assets/dload.png"  width="1000px" alt=""/>
--   Right-click the .deb file and choose **Open with Software Install**
-    <img src="/assets/openwith.png"  width="1000px" alt=""/>
--   Select **Software Install** from the program list
--   A new dialogue box opens with details about the software
--   Click on the **Install** button to proceed
-    <img src="/assets/intbtn.png"  width="1000px" alt=""/>
--   Enter the user's password when prompted and press **Enter** to authenticate
-    <img src="/assets/psd.png"  width="1000px" alt=""/>
--   Wait for the installation to complete. When finished, the software is ready to use
-    <img src="/assets/wait.png"  width="1000px" alt=""/>
+<video controls src="/assets/sigindeleteaechive.mov" width="100%" type="video/mov">
