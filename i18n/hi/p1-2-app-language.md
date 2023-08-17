@@ -1,22 +1,22 @@
 ---
 id: p1-2-app-language
-sidebar_label: App Language
-title: App Language
+sidebar_label: ऐप भाषा
+title: ऐप भाषा
 ---
 
-**How to use App Language**
+**ऐप भाषा का उपयोग कैसे करें**
 
-- Go to the **Profile** icon on the top right side of the screen
-- Click and select  **Your Profile**
-- Choose the language you want to work in from the App language drop-down menu
+- स्क्रीन के ऊपर दाईं ओर प्रोफाइल आइकन पर जाएं
+- क्लिक करें और **अपनी प्रोफ़ाइल** चुनें
+- ऐप भाषा ड्रॉप-डाउन मेनू से वह भाषा चुनें जिसमें आप काम करना चाहते हैं
 
-**Scribe supports the following languages**
-  - English
-  - Hindi
-  - Russian
-  - Farsi
-  - French
-  - Nepali
-- Click **Save** button to save the changes
+**स्क्रिब निम्नलिखित भाषाओं का समर्थन करता है**
+  - अंग्रेज़ी
+  - हिंदी
+  - रूसी
+  - फारसी
+  - फ्रांसीसी
+  - नेपाली
+- परिवर्तनों को सहेजने के लिए **सहेजें **बटन पर क्लिक करें
 
-<img src="/assets/applanguage.png"  width="1000px" alt="project listing" />
+<img src="/assets/applanguage.png"  width="1000px" alt="परियोजना सूचीकरण" />
