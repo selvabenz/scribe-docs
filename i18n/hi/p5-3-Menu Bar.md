@@ -12,7 +12,6 @@ The **File** menu is located on the top left side of the **Translation Column.**
 <img src="/AutographaV2-1-0/filemenu.png"  width="1000px" alt="file menu" />
 
 
-
 <!-- **EDIT** 
 
 The **Edit** feature is located on the top left side of the **Translation column,** next to the **File** feature.
