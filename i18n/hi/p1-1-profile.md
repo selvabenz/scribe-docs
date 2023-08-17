@@ -1,14 +1,14 @@
 ---
 id: p1-1-profile
-sidebar_label: Profile
-title: Profile
+sidebar_label: प्रोफ़ाइल
+title: प्रोफ़ाइल
 ---
 
-**Profile** page has the all the information about the user. All data input is optional and is stored locally on your computer.
+**प्रोफ़ाइल ** पेज पर उपयोगकर्ता के बारे में सारी जानकारी होती है| सभी डेटा इनपुट वैकल्पिक है और आपके कंप्यूटर पर स्थानीय रूप से संग्रहीत किया जाता है|
 
-- On the projects page, on the top right side there is a **Profile** icon
-- Click on your **Profile** to add necessary information
-- Click **Save** button to save the information
+- प्रोजेक्ट पेज पर, ऊपर दाईं ओर एक** प्रोफ़ाइल **आइकन है
+- आवश्यक जानकारी जोड़ने के लिए अपनी ** प्रोफ़ाइल ** पर क्लिक करें
+- जानकारी सहेजने के लिए **सेव **बटन पर क्लिक करें
 
 
 
