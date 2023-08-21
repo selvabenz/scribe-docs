@@ -13,6 +13,7 @@ The **File** menu is located on the top left side of the **Translation Column.**
 
 
 
+
 <!-- **EDIT** 
 
 The **Edit** feature is located on the top left side of the **Translation column,** next to the **File** feature.
