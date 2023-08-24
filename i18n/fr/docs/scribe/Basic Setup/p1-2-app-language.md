@@ -1,7 +1,7 @@
 ---
 id: p1-2-app-language
-sidebar_label: App Language
-title: App Language
+sidebar_label: Langue de l'application
+title: Langue de l'application
 ---
 
 **How to use App Language**
