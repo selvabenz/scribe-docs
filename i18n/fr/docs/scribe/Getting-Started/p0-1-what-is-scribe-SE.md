@@ -1,15 +1,15 @@
 ---
 id: p0-1-what-is-scribe
-sidebar_label: What is Scribe SE?
-title: What is Scribe SE?
+sidebar_label: Qu'est-ce que Scribe SE ?
+title: Qu'est-ce que Scribe SE ?
 slug: '/'
 ---
 
-**Scribe Scripture Editor** is an easy-to-use Bible translation tool designed to empower mother tongue translators to quickly and efficiently complete various tasks related to Bible translation with minimal training.
+**Scribe Scripture Editor** est un outil de traduction biblique facile à utiliser conçu pour permettre aux traducteurs de langue maternelle de remplir rapidement et efficacement diverses tâches liées à la traduction biblique avec une formation minimale.
 
 
-**Scribe SE** supports different flavours such as Bible Translation, Open Bible Stories (OBS) and Oral Bible Translation (Audio). Bible translations from the source text can be drafted and edited with the help of **Scribe**. Additionally, it allows translators to import and export [Scripture Burrito](https://docs.burrito.bible/) format, it also allows importing USFM files from the local system. Users can work on multiple projects simultaneously.
+**Scribe SE** prend en charge différentes saveurs telles que la traduction biblique, les histoires bibliques ouvertes (OBS) et la traduction orale de la Bible (Audio). Les traductions bibliques du texte source peuvent être rédigées et éditées à l'aide de **Scribe**. En outre, il permet aux traducteurs d'importer et d'exporter le format [Burrito](https://docs.burrito.bible/) , il permet également d'importer des fichiers USFM depuis le système local. Les utilisateurs peuvent travailler simultanément sur plusieurs projets.
 
-  Multiple reference panels are available for the translator to use when looking for information or seeking clarity in the source text. In resource panes the translator can load different resources like Bibles, translation notes, translation words list, translation words, translation questions, translation academy, Open Bible Stories, OBS translation notes, OBS translation question, OBS translation words list and Audio Bible resources as reference material.
+  Plusieurs panneaux de référence sont à la disposition du traducteur pour la recherche d'informations ou la recherche de clarté dans le texte source. Dans les panneaux de ressources, le traducteur peut charger différentes ressources telles que les bibles, les notes de traduction, la liste des mots de traduction, les mots de traduction, les questions de traduction, académie de traduction, Récits bibliques ouverts, notes de traduction d'OBS, question de traduction d'OBS, liste de mots de traduction d'OBS et ressources de la Bible Audio comme matériel de référence.
 
 *Note*: **The Scribe Scripture Editor (Scribe SE) will hereafter be referred to as Scribe in this document.**
