@@ -12,4 +12,4 @@ slug: '/'
 
   Plusieurs panneaux de référence sont à la disposition du traducteur pour la recherche d'informations ou la recherche de clarté dans le texte source. Dans les panneaux de ressources, le traducteur peut charger différentes ressources telles que les bibles, les notes de traduction, la liste des mots de traduction, les mots de traduction, les questions de traduction, académie de traduction, Récits bibliques ouverts, notes de traduction d'OBS, question de traduction d'OBS, liste de mots de traduction d'OBS et ressources de la Bible Audio comme matériel de référence.
 
-*Note*: **The Scribe Scripture Editor (Scribe SE) will hereafter be referred to as Scribe in this document.**
+*Note*: **L'Éditeur d'Écriture de Scribe (Scribe SE) sera plus tard appelé Scribe dans ce document.**
