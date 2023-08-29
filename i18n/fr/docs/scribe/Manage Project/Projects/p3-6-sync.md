@@ -1,47 +1,47 @@
 ---
 id: p3-6-sync
-sidebar_label: Sync Collabration
-title: Sync Collabration
+sidebar_label: Synchroniser la collaboration
+title: Synchroniser la collaboration
 ---
 
-**It enables multiple user to Collabrate remotely**
+**Il permet à plusieurs utilisateurs de Collabrate à distance**
 
-<p><h2>Login to the DOOR43 server</h2></p>
+<p><h2>Connexion au serveur DOOR43</h2></p>
 
-**Steps**
+**Étapes**
 
-- Click on the **SYNC** button On the left side of the screen
-- Click **Register Now**. Fill in all the fields on the DOOR43 registration page, then click **Register Account**
-- The user recieves a link in the mail Id given
-- Click on the link and confirm the password again to activate the user account
-- Now, login with the username and password on the **Sribe Sync page**
+- Cliquer sur le bouton **Synchroniser** sur le côté gauche de l'écran
+- Cliquez sur **S'inscrire maintenant**. Remplissez tous les champs sur la page d'inscription DOOR43, puis cliquez sur **Enregistrer le compte**
+- L'utilisateur reçoit un lien dans l'identifiant de courriel fourni
+- Cliquez sur le lien et confirmez à nouveau le mot de passe pour activer le compte utilisateur
+- Maintenant, connectez-vous avec le nom d'utilisateur et le mot de passe sur la **Sribe Synchroniser page**
 <video controls src="/assets/Logintotheserver.mov" width="100%" type="video/mov">
 
-<p><h2>Cloud Sync</h2></p>
+<p><h2>Synchronisation vers le cloud</h2></p>
 
-**Steps**
+**Étapes**
 
-- Enter a valid username and password to access your DOOR 43 account
-- Select the project you wish to work on, from the **SYNC** pane
-- After selecting the desired project click the **CLOUD SYNC** button on the SYNC pane
-- A progress bar will appear, showing the status and completion of the **sync** process
-- Once the project is successfully synced, it will be listed at the bottom of the **CLOUD PROJECTS** pane
+- Entrez un nom d'utilisateur et un mot de passe valides pour accéder à votre compte DOOR 43
+- Sélectionnez le projet sur lequel vous souhaitez travailler, à partir du volet **Synchroniser**
+- Après avoir sélectionné le projet désiré, cliquez sur le bouton **Synchroniser** sur le volet SYNC
+- Une barre de progression va apparaître, montrant l'état et la finalisation du processus **Synchronisation**
+- Une fois le projet synchronisé avec succès, il sera listé au bas du volet **Projets sur le cloud**
 
 <video controls src="/assets/cloudsync.mov" width="100%" type="video/mp4">
 
 
 
-<p><h2>Offline Sync</h2></p>
+<p><h2>Synchronisation hors ligne</h2></p>
 
-**Steps**
+**Étapes**
 
-- Enter a valid username and password to access your DOOR 43 account
-- In the CLOUD PROJECTS pane, enter the project owner's username in the specified field
-- Choose the project you wish to download to your local system
-- The selected project will be filtered, and the CLOUD PROJECTS pane will show the **OFFLINE SYNC** button
+- Entrez un nom d'utilisateur et un mot de passe valides pour accéder à votre compte DOOR 43
+- Dans le volet ** PROJETS DU CLOUD**, entrez le nom d'utilisateur du propriétaire du projet dans le champ spécifié
+- Choisissez le projet que vous souhaitez télécharger sur votre système local
+- Le projet sélectionné sera filtré et le volet **CLOUD PROJECTS**affichera le bouton **OFFLINE SYNCHRONISER**</li>
 - By clicking the **OFFLINE SYNC** button, you can download the project to your local system
 - The downloaded project will appear in the **SYNC** pane
-- To edit the downloaded project, navigate to the PROJECTS page and choose the downloaded project
+- To edit the downloaded project, navigate to the PROJECTS page and choose the downloaded project</ul>
 
 <video controls src="/assets/offlinesync.mov" width="100%" type="video/mp4">
 
@@ -50,7 +50,7 @@ title: Sync Collabration
 <n>
 ## Contribute to a shared project</n>
 
-**Steps**
+**Étapes**
 
 **Project owner**
 
@@ -78,7 +78,7 @@ title: Sync Collabration
 
 <p><h2>How to sync a project</h2></p>
 
-**Steps**
+**Étapes**
 
 - Click on the **Sync** button on the left side of the window (If you are a new user, Create a new account in DOOR43)
 - Login to the DOOR43 account in the sync page
@@ -93,7 +93,7 @@ title: Sync Collabration
 
 A project can be directly synced by the user from the project module.
 
-**Steps**
+**Étapes**
 
 - Click on the project module and open a project
 - Click the **Sync** button
@@ -105,7 +105,7 @@ A project can be directly synced by the user from the project module.
 
 The user can **Sync** a project from the server to the local system. Ensure that the project file is not in the local system otherwise the project file will get mergerd into the local system.
 
-**Steps**
+**Étapes**
 
 - Click on the **Sync** button Login to the DOOR43 account on the right side of the column
 - It lists every project on the door 43 server
@@ -117,7 +117,7 @@ The user can **Sync** a project from the server to the local system. Ensure that
 
 <p><h2>Merge a project from the DOOR43 remote server</h2></p>
 
-**Steps**
+**Étapes**
 
 - Click on the **Sync** button,login to the DOOR43 account
 - It displays all the projects in the door 43 server at the right side of the column
