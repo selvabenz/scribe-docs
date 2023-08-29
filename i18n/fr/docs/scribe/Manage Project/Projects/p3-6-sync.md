@@ -39,71 +39,71 @@ title: Synchroniser la collaboration
 - Dans le volet ** PROJETS DU CLOUD**, entrez le nom d'utilisateur du propriétaire du projet dans le champ spécifié
 - Choisissez le projet que vous souhaitez télécharger sur votre système local
 - Le projet sélectionné sera filtré et le volet **CLOUD PROJECTS**affichera le bouton **OFFLINE SYNCHRONISER**</li>
-- By clicking the **OFFLINE SYNC** button, you can download the project to your local system
-- The downloaded project will appear in the **SYNC** pane
-- To edit the downloaded project, navigate to the PROJECTS page and choose the downloaded project</ul>
+- En cliquant sur le bouton **OFFLINE SYNCHRONISER**, vous pouvez télécharger le projet sur votre système local
+- Le projet téléchargé apparaîtra dans le volet **SYNCHRONISER**
+- Pour modifier le projet téléchargé, accédez à la page PROJETS et choisissez le projet téléchargé</ul>
 
 <video controls src="/assets/offlinesync.mov" width="100%" type="video/mp4">
 
 
 
 <n>
-## Contribute to a shared project</n>
+## Contribuer à un projet partagé</n>
 
 **Étapes**
 
-**Project owner**
+**Propriétaire du projet**
 
-- The project owner has to login to DOOR43, https://git.door43.org/
-- Select the Project to **collaborate**
-- Click on the **collaborator** tab
-- Add the names of the collaborators
-- Select **Add Collaborator**
-- Give access to the collaborator either as **Administrator, Write, or Read**
+- Le propriétaire du projet doit se connecter à DOOR43, https://git.door43.org/
+- Sélectionnez le projet à **collaborez**
+- Cliquez sur l'onglet **collaborateur**
+- Ajouter les noms des collaborateurs
+- Sélectionnez **Add Collaborator**
+- Donner accès au collaborateur en tant** Administrator, Write ou Write**
 
-**Collaborator**
+**Collaborateur**
 
-- Go to the **Sync** page
-- Login to the DOOR43 account
-- The user/collaborator can then enter the project owner's name in the given field on the Sync page of Scribe
-- Select the project to work
-- Click on **offline sync** on the top right side
-- The project will be synced to Scribe
-- A notification stating 'project sync to scribe successful' will appear in the bottom left side
-- The project has now been set up for work
+- Aller à la page **Synchroniser**
+- Connectez-vous au compte DOOR43
+- L'utilisateur/collaborateur peut alors entrer le nom du propriétaire du projet dans le champ donné sur la page de synchronisation de Scribe
+- Sélectionnez le projet à travailler
+- Cliquez sur **synchronisation hors ligne** en haut à droite
+- Le projet sera synchronisé avec Scribe
+- Une notification indiquant 'Synchronisation du projet au scribe réussie' apparaîtra en bas à gauche
+- Le projet a été mis en place pour le travail
 
 <video controls src="/assets/collabsync.mov" width="100%" type="video/mp4">
 
 
 
-<p><h2>How to sync a project</h2></p>
+<p><h2>Comment synchroniser un projet</h2></p>
 
 **Étapes**
 
-- Click on the **Sync** button on the left side of the window (If you are a new user, Create a new account in DOOR43)
-- Login to the DOOR43 account in the sync page
-- A list of all user projects will appear on the left of the sync window
-- The right side of the screen will display all projects saved on the DOOR43 remote server
-- Drag and drop a project to the container placed on the right side of the screen
-- On the top of the screen, the user can see the uploading progress bar
-- The project will then be uploaded to the DOOR43 remote server and displayed to the user in the right-hand column of the screen
+- Cliquez sur le bouton **Synchroniser** sur le côté gauche de la fenêtre (Si vous êtes un nouvel utilisateur, Créer un nouveau compte dans DOOR43)
+- Connectez-vous au compte DOOR43 dans la page de synchronisation
+- Une liste de tous les projets utilisateur apparaîtra à gauche de la fenêtre de synchronisation
+- Le côté droit de l'écran affichera tous les projets enregistrés sur le serveur distant DOOR43
+- Glisser et déposer un projet vers le conteneur placé sur le côté droit de l'écran
+- En haut de l'écran, l'utilisateur peut voir la barre de progression du téléchargement
+- Le projet sera ensuite téléchargé sur le serveur distant DOOR43 et affiché à l'utilisateur dans la colonne de droite de l'écran
 <video controls src="/assets/syncaproject.mov" width="100%" type="video/mp4">
 
-<p><h2>Sync a project from the project module</h2></p>
+<p><h2>Synchroniser un projet depuis le module projet</h2></p>
 
-A project can be directly synced by the user from the project module.
+Un projet peut être directement synchronisé par l'utilisateur à partir du module projet.
 
 **Étapes**
 
-- Click on the project module and open a project
-- Click the **Sync** button
-- The uploading progress bar will be displayed at the top
-- (Login to the DOOR43 server if you are not done yet)
+- Cliquez sur le module du projet et ouvrez un projet
+- Cliquez sur le bouton **Synchroniser**
+- La barre de progression de téléchargement sera affichée en haut
+- (Connectez-vous au serveur DOOR43 si vous n'êtes pas encore terminé)
 <video controls src="/assets/projectsync.mov" width="100%" type="video/mp4">
 
-<p><h2>Sync back a project from the DOOR43 remote server</h2></p>
+<p><h2>Synchroniser un projet depuis le serveur distant DOOR43</h2></p>
 
-The user can **Sync** a project from the server to the local system. Ensure that the project file is not in the local system otherwise the project file will get mergerd into the local system.
+L'utilisateur peut **Synchroniser** un projet depuis le serveur vers le système local. Assurez-vous que le fichier du projet n'est pas dans le système local sinon le fichier du projet sera fusionné dans le système local.
 
 **Étapes**
 
