@@ -107,22 +107,22 @@ L'utilisateur peut **Synchroniser** un projet depuis le serveur vers le système
 
 **Étapes**
 
-- Click on the **Sync** button Login to the DOOR43 account on the right side of the column
-- It lists every project on the door 43 server
-- (The project should not be saved)
-- Drag and drop a project from the DOOR43 server list into the container on the left side of the screen
-- With this, a project will be synced back from the server
+- Cliquez sur le bouton **Synchroniser** pour vous connecter au compte DOOR43 sur le côté droit de la colonne
+- Il répertorie chaque projet sur le serveur de la porte 43
+- (Le projet ne doit pas être enregistré)
+- Glissez et déposez un projet depuis la liste du serveur DOOR43 dans le conteneur sur le côté gauche de l'écran
+- Avec cela, un projet sera synchronisé depuis le serveur
 
 <video controls src="/assets/syncback.mov" width="100%" type="video/mov">
 
-<p><h2>Merge a project from the DOOR43 remote server</h2></p>
+<p><h2>Fusionner un projet à partir du serveur distant DOOR43</h2></p>
 
 **Étapes**
 
-- Click on the **Sync** button,login to the DOOR43 account
-- It displays all the projects in the door 43 server at the right side of the column
-- Drag and drop a project from the DOOR43 server list into the container on the left side of the screen
-- The progress bar will appear
-- (You can undo the merging process by clicking the undo button before counting down to an end)
-- This will merge a project from the server
+- Cliquez sur le bouton **Synchroniser**, connectez-vous au compte DOOR43
+- Il affiche tous les projets dans le serveur de porte 43 à droite de la colonne
+- Glissez et déposez un projet depuis la liste du serveur DOOR43 dans le conteneur sur le côté gauche de l'écran
+- La barre de progression apparaîtra
+- (Vous pouvez annuler le processus de fusion en cliquant sur le bouton Annuler avant de compter vers une fin)
+- Ceci fusionnera un projet du serveur
 <video controls src="/assets/merge.mov" width="100%" type="video/mov">
