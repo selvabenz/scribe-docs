@@ -1,21 +1,21 @@
 ---
 id: p5-1-layout
-sidebar_label: Layout
-title: Layout
+sidebar_label: Mise en page
+title: Mise en page
 ---
 
-For all three modes, **Scribe** enables the user to compare and refer to resources. **Scribe** supports up to three columns open at a time (including the editing column).
+Pour les trois modes, **Scribe** permet à l'utilisateur de comparer et de consulter les ressources. **Scribe** supporte jusqu'à trois colonnes ouvertes à la fois (y compris la colonne d'édition).
 
-**Steps to add Layout**
+**Étapes pour ajouter une mise en page**
 
-- By clicking Layout icon to add the Layout <img src="/assets/newcolumn.png" width="50px" alt="" />
-- Each column can be further divided into two sections, and the user can simultaneously refer to four translation resources
+- En cliquant sur l'icône de mise en page pour ajouter la mise en page <img src="/assets/newcolumn.png" width="50px" alt="" />
+- Chaque colonne peut être divisée en deux sections, et l'utilisateur peut se référer simultanément à quatre ressources de traduction
 
-**Steps to open/add the reference resource Layout**
+**Étapes pour ouvrir/ajouter la mise en page des ressources de référence**
 
-- Choose the desired project from the Projects page
-- An editor pane will open up
-- Click on the layout icon in the upper right side of the editor pane to add the layout for reference resources
+- Choisir le projet désiré depuis la page Projets
+- Un volet d'édition s'ouvrira
+- Cliquez sur l'icône de mise en page en haut à droite du volet de l'éditeur pour ajouter la mise en page des ressources de référence
 
 <video controls src="/assets/add-columns.mov" width="100%" type="video/mov">
 
