@@ -1,7 +1,7 @@
 ---
 id: p5-3-menu bar
-sidebar_label: Menu Bar
-title: Menu Bar
+sidebar_label: Barre de menu
+title: Barre de menu
 ---
 
 The top navigation bar contains a menu on the left side, offering options such as File, Edit, and About.
