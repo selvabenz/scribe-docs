@@ -6,68 +6,68 @@ title: Ressources
 
 Traduction de la Bible textuelle
 
-**RESOURCES**
+**RÉSSOURCES**
 
-**Scribe** offers a variety of translation resources to help translators with their work. In addition to the available online resources on Scribe, the translator can upload files from local storage as a reference for his translation work.
+**Scribe** offre une variété de ressources de traduction pour aider les traducteurs dans leur travail. En plus des ressources en ligne disponibles sur Scribe, le traducteur peut télécharger des fichiers depuis le stockage local comme référence pour son travail de traduction.
 
-Scribe assists translators in gaining access to the best resources in as many languages as possible and completing translation projects with speed and quality.
+Scribe aide les traducteurs à accéder aux meilleures ressources dans autant de langues que possible et à achever les projets de traduction avec rapidité et qualité.
 
 
-**TYPES OF RESOURCES**
+**TYPES DE RESSOURCES**
 
-The following resources are available on Scribe
+Les ressources suivantes sont disponibles sur Scribe
 
 <h3>BIBLE</h3>
 
-There are three tabs once you click on the Bible:
+Il y a trois onglets une fois que vous cliquez sur la Bible:
 
-**BIBLE, RESOURCE, COLLECTION**
+**BIBLE, RESSOURCE, COLLECTION**
 
-**<i>To download the Bible of your choice,</i>**  **RESOURCE**
-- click on the *Resource* tab
-- Choose the Bible you want to download
-- Select the download icon
+**<i>Pour télécharger la Bible de votre choix,</i>**  **RESSOURCE**
+- cliquez sur l'onglet *Ressource*
+- Choisissez la Bible que vous voulez télécharger
+- Sélectionnez l'icône de téléchargement
 
-The downloaded Bible will appear at the top of the list. This allows you to keep track of the resources that have been downloaded. You can also choose a Bible by entering information such as Language and type into the window provided in the Resource section. By clicking on the Bible tab, you will be able to access the downloaded Bible for reference.
+La Bible téléchargée apparaîtra en haut de la liste. Cela vous permet de garder une trace des ressources qui ont été téléchargées. Vous pouvez également choisir une Bible en entrant des informations telles que la langue et tapez dans la fenêtre fournie dans la section Ressources. En cliquant sur l’onglet biblique, vous pourrez accéder à la Bible téléchargée pour référence.
 
-**<i>To upload resources from local,</i>**  **COLLECTION**
+**<i>Pour télécharger la Bible de votre choix,</i>**  **RESSOURCE**
 
-You can also refer to resources from your local computer by uploading them to Scribe.
-- Click on the *collection* tab to import resources from local storage
-- Click on *Select Folder*
-- Select the file from your PC that you want to upload
-- Select the upload option You'll be able to see the file if you click the Bible tab.
+Vous pouvez également vous référer aux ressources de votre ordinateur local en les téléchargeant sur Scribe.
+- Cliquez sur l'onglet *collection* pour importer des ressources depuis le stockage local
+- Cliquez sur *Sélectionnez le dossier*
+- Sélectionnez le fichier de votre PC que vous voulez télécharger
+- Sélectionnez l’option de téléchargement Vous pourrez voir le fichier si vous cliquez sur l’onglet Bible.
 
 
-**TRANSLATION NOTES**
+**NOTES DE TRANSLATION**
 
-Scribe currently supports Translation Notes in different languages.
+Scribe supporte actuellement les notes de traduction dans différentes langues.
 
-**TRANSLATION WORDS LIST**
+**LISTE DES MOTS DE TRANSLATION**
 
-This section offers a list of key biblical terms.
+Cette section offre une liste de termes bibliques clés.
 
-**TRANSLATION WORDS**
+**MOTS DE TRANSLATION**
 
-The list of translation words is divided into three categories:
+La liste des mots de traduction est divisée en trois catégories :
 
-**KT-Key Terms** - This list includes a number of important words from the Bible, along with definitions, translation suggestions, Bible references, and word data.
+**Termes KT-Key** - Cette liste comprend un certain nombre de mots importants de la Bible, avec définitions, suggestions de traduction, références bibliques et données de mots.
 
-**Names** - This list contains facts, Bible references, examples from Bible stories, and word data about people in the Bible.
+**Noms** - Cette liste contient des faits, des références bibliques, des exemples d'histoires bibliques et des données de mots sur les personnes dans la Bible.
 
-**Other** – This is a list of additional Bible terms. The definition, Bible references, and word data are all included in the list.
+**Autres** – Il s’agit d’une liste de termes bibliques supplémentaires. La définition, les références bibliques et les données de mots sont toutes incluses dans la liste.
 
-**TRANSLATION QUESTION**
+**QUESTION DE TRANSLATION**
 
-This resource category contains questions that are designed to help translators in analyzing and understanding specific Bible books.
+Cette catégorie de ressources contient des questions qui sont conçues pour aider les traducteurs à analyser et comprendre des livres bibliques spécifiques.
 
-**TRANSLATION ACADEMY**
+**ACADÉMIE DE TRANSLATION**
 
-Translation Academy is a resource for Bible translation information and instruction for translators.
+L'Académie de traduction est une ressource d'information et d'instruction sur la traduction biblique pour les traducteurs.
 
 <video controls src="/assets/resource-types.mov" width="100%" type="video/mov">
 
-To import a resource, follow the steps below.
+Pour importer une ressource, suivez les étapes ci-dessous.
 
 
 <video controls src="/assets/import-resources.mov" width="100%" type="video/mov">
@@ -75,42 +75,42 @@ To import a resource, follow the steps below.
 
 
 
-<h3>OPEN BIBLE STORIES (OBS)</h3>
+<h3>STORIES BIBLES OUVERTES (OBS)</h3>
 
-Open Bible Stories is a collection of key Bible stories available for translation in easy-to-understand text.
+Les histoires bibliques ouvertes sont une collection d'histoires bibliques clés disponibles pour la traduction en texte facile à comprendre.
 
-There are three tabs once you click on the Open Bible Stories
+Il y a trois onglets une fois que vous cliquez sur la Bible:
 
-**OBS, RESOURCE, COLLECTION**
+**OBS, RESSOURCE, COLLECTION**
 
-**<i>To download the Bible story of your choice,</i>** **RESOURCE**
+**<i>Pour télécharger l'histoire biblique de votre choix,</i>** ****
 
-- Click on the *Resource* tab
-- Choose the story you want to download
-- Select the download icon
+- Cliquez sur l'onglet *Ressource*
+- Choisissez l'histoire que vous souhaitez télécharger
+- Sélectionnez l'icône de téléchargement
 
-The downloaded Bible story will appear at the top of the list. This allows you to keep track of the resources that have been downloaded. You can also choose a Bible story by entering information such as Language and type into the window provided in the Resource section. By clicking on the OBS tab, you will be able to access the downloaded Bible story for reference.
+L'histoire biblique téléchargée apparaîtra en haut de la liste. Cela vous permet de garder une trace des ressources qui ont été téléchargées. Vous pouvez également choisir une histoire biblique en entrant des informations telles que la langue et tapez dans la fenêtre fournie dans la section Ressources. En cliquant sur l’onglet OBS, vous pourrez accéder à l’histoire biblique téléchargée pour référence.
 
-**<i>To upload resources from local,</i>** **COLLECTION**
+**<i>Pour télécharger la Bible de votre choix,</i>**  **RESSOURCE**
 
-You can also refer to resources from your local computer by uploading them to **Scribe**.
+Vous pouvez également vous référer aux ressources de votre ordinateur local en les téléchargeant vers **Scribe**.
 
-- Click on the *collection* tab to import resources from local storage
-- Click on **Select Folder**
-- Select the file from your PC that you want to upload
-- Select the upload option You'll be able to see the file if you click the OBS tab.
+- Cliquez sur l'onglet *collection* pour importer des ressources depuis le stockage local
+- Cliquez sur **Sélectionnez le dossier**
+- Sélectionnez le fichier de votre PC que vous voulez télécharger
+- Sélectionnez l’option de téléchargement Vous pourrez voir le fichier si vous cliquez sur l’onglet OBS.
 
-**OBS TRANSLATION NOTES**
+**NOTES DE TRANSLATION OBS**
 
-OBS translation notes provide interpretive information for stories to assist translators with their translation work.
+Les notes de traduction d'OBS fournissent des informations interprétatives sur les histoires pour aider les traducteurs dans leur travail de traduction.
 
-**OBS TRANSLATION QUESTIONS**
+**QUESTIONS DE TRANSLATION OBS**
 
-These questions allow translators to determine whether the intended meaning is clearly communicated to the audience.
+Ces questions permettent aux traducteurs de déterminer si le sens voulu est clairement communiqué au public.
 
-**OBS TRANSLATION WORDS LIST**
+**LISTE DES MOTS DE TRANSLATION OBS**
 
-This section offers a list of key biblical terms. To import a resource, follow the steps below.
+Cette section offre une liste de termes bibliques clés. Pour importer une ressource, suivez les étapes ci-dessous.
 <p> </p>
 
 <video controls src="/assets/adding-resources.mov" width="100%" type="video/mov">
