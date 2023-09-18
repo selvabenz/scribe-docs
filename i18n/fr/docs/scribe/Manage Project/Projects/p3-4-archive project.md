@@ -1,28 +1,28 @@
 ---
 id: p3-4-archive project
-sidebar_label: Archive Project
-title: Archive Project
+sidebar_label: Archiver le projet
+title: Archiver le projet
 ---
 
-**Scribe** discourages deletion to prevent any inadvertent data loss. As an alternative, it allows users to Archive projects which would not show up in the main listing of projects anymore. Archived projects maybe restored at any point. Though discouraged, power users may delete archived projects completely from the disk location outside the application. Backups of the archived projects are maintained by **scribe**.
+**Scribe** décourage la suppression pour éviter toute perte de données accidentelle. Comme alternative, il permet aux utilisateurs d'archiver des projets qui n'apparaîtraient plus dans la liste principale des projets. Les projets archivés peuvent être restaurés à n'importe quel moment. Bien que déconseillé, les utilisateurs d'énergie peuvent supprimer complètement les projets archivés de l'emplacement du disque en dehors de l'application. Les sauvegardes des projets archivés sont conservées par scribe.
 
-**Steps to archive the project**
-- Select a project from the list to **Archive**
-- Click the downward pointing arrow to see a dropdown menu with the project description
-- Click on the three dots menu with options
-   - Edit
-   - Export
+**Étapes pour archiver le projet**
+- Sélectionnez un projet dans la liste vers **Archivé**
+- Cliquez sur la flèche pointant vers le bas pour voir un menu déroulant avec la description du projet
+- Cliquez sur le menu des trois points avec les options
+   - Modifier
+   - Exporter
    - Archive
-- Select the **Archive** to save the project for future reference
+- Sélectionnez **Archivé** pour enregistrer le projet pour référence future
 
-**Steps to restore the Archived project**
+**Étapes pour restaurer le projet archivé**
 
-- Click the Archived button in the top right corner
-- The archived files list appears
-- Choose the Project you want to activate
-- Then, select **Restore** by pressing the downward pointing arrow
+- Cliquez sur le bouton Archivé en haut à droite
+- La liste des fichiers archivés apparaît
+- Choisissez le projet que vous souhaitez activer
+- Ensuite, sélectionnez **Restaurer** en appuyant sur la flèche pointant vers le bas
 
-The Archive appears in the Sidebar once you archive at least one note. Notes in the Archive do not appear in search results elsewhere, but you can select the Archive section and search its notes. If you have, archived notes will sync between your devices.
+L'archive apparaît dans la barre latérale une fois que vous archivez au moins une note. Les notes dans l'archive n'apparaissent pas dans les résultats de recherche ailleurs, mais vous pouvez sélectionner la section Archive et rechercher ses notes. Si vous l'avez fait, les notes archivées seront synchronisées entre vos appareils.
 
 <video controls src="/assets/softdelete.mov" width="100%" type="video/mov">
 
