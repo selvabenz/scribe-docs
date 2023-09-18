@@ -4,10 +4,10 @@ sidebar_label: Notifications
 title: Notifications
 ---
 
-- Click on the **bell** icon <img src="/assets/notification.png" width="30px" alt="" /> at the top right side of the screen next to the **New Layout** icon
-  - Here you will find a list of **Notifications**
-  - Each type of notification will have a different color
+- Cliquez sur l'icône **cloche** <img src="/assets/notification.png" width="30px" alt="" /> en haut à droite de l'écran à côté de l'icône **Nouvelle mise en page**
+  - Vous trouverez ici une liste de **Notifications**
+  - Chaque type de notification aura une couleur différente
 
-To return to the main page, click on the <—— arrow on the top left side of the screen.
+Pour revenir à la page principale, cliquez sur la flèche <— en haut à gauche de l'écran.
 <img src="/AutographaV2-1-0/notification1.png"  width="1000px" alt="notification" />
 <img src="/AutographaV2-1-0/notification2.png"  width="1000px" alt="notification" />
