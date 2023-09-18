@@ -1,18 +1,18 @@
 ---
 id: p3-2-edit project details
-sidebar_label: Edit Project Details
-title: Edit Project Details
+sidebar_label: Editer les Détails de Projet
+title: Editer les Détails de Projet
 ---
 
-- On the project's page, find the project you wish to edit
-- Click on the arrow on the right side of the project information
-- This will expand the project information
-- To **Edit** the project details, click on the three dots menu
-- Then select **Edit**
-- You will be directed to the Edit project page, where you may make the changes that are required
+- Sur la page du projet, trouvez le projet que vous souhaitez modifier
+- Cliquez sur la flèche à droite des informations du projet
+- Ceci va étendre les informations du projet
+- Pour **Modifier** les détails du projet, cliquez sur le menu à trois points
+- Puis sélectionnez **Modifier**
+- Vous serez dirigé vers la page Modifier le projet, où vous pourrez apporter les modifications nécessaires
 
 <video controls src="/assets/editing-project.mov" width="100%" type="video/mov">
 
-By following the previous list of instructions, you will be directed to the **Edit Project** page of the app.
+En suivant la liste précédente des instructions, vous serez dirigé vers la page **Modifier le projet** de l'application.
 
-Another interesting feature on the **Edit Project** screen is the **Advanced Settings.**
+Une autre fonctionnalité intéressante sur l'écran **Modifier le projet** est le **Paramètres avancés.**
