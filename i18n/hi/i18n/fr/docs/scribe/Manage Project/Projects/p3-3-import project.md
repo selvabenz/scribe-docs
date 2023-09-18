@@ -1,23 +1,23 @@
 ---
 id: p3-3-import project
-sidebar_label: Import Project
-title: Import Project
+sidebar_label: Importer un projet
+title: Importer un projet
 ---
 
-**Scribe** provides users with the functionality to import [Scripture Burrito](https://docs.burrito.bible/) validated projects directly from the local devices.
+**Scribe** fournit aux utilisateurs la fonctionnalité d'importer des projets validés [Scripture Burrito](https://docs.burrito.bible/) directement à partir des appareils locaux.
 
-**Steps to Import a Project**
+**Étapes pour importer un projet**
 
-- On the project page, click on the **Import** button located at the top right side
-- Select a folder from local device using the dialogue box that displays
-- Choose the desired folder for import and click on **Select Folder**
-- The dialogue box will display project details, including the Scripture Burrito directory, Project and language name, and project type
-- You will also see a message confirming the successful validation of the Burrito with the green tick mark, as Scribe only permits the import of Scripture Burrito files
-- Click **Import** to proceed
-- On a successful project import, a pop-up message will appear at the bottom left side, indicating that the project has been successfully imported
-- If the project already exists, a verification message will appear, asking whether you want to replace the existing project file. If you wish to overwrite the file, click on **Replace**
+- Sur la page du projet, cliquez sur le bouton **Importer** situé en haut à droite
+- Sélectionnez un dossier à partir de l'appareil local en utilisant la boîte de dialogue qui s'affiche
+- Choisissez le dossier désiré à importer et cliquez sur **Sélectionnez le dossier**
+- La boîte de dialogue affichera les détails du projet, y compris le répertoire Burrito des Écritures, le nom du projet et de la langue, et le type de projet
+- Vous verrez également un message confirmant la validation réussie du Burrito avec la coche verte, car Scribe n'autorise que l'importation de fichiers Burrito Écritures
+- Cliquez sur **Importer** pour continuer
+- Lors d'une importation de projet réussie, un message pop-up apparaîtra en bas à gauche, indiquant que le projet a été importé avec succès
+- Si le projet existe déjà, un message de vérification apparaîtra et vous demandera si vous voulez remplacer le fichier de projet existant. Si vous souhaitez écraser le fichier, cliquez sur **Remplacer**
 
-Note: **Scribe** allows to **Import** and **Export** USFM (Unified Standard Format Markers) files and MD files. It also supports TSV resources in OBS Translation Notes
+Remarque : **Scribe** permet d'importer **** et **Exporter** fichiers USFM (Unified Standard Format Markers) et fichiers MD. Scribe prend également en charge les ressources TSV dans les notes de traduction OBS
 
 
 <video controls src="/assets/importbfile.mov" width="100%" type="video/mov">

@@ -1,48 +1,48 @@
 ---
 id: p3-7-backup
-sidebar_label: Sync Backup
-title: Sync Backup
+sidebar_label: Synchroniser la sauvegarde
+title: Synchroniser la sauvegarde
 ---
 
-**It enables the user to store all project data on the remote server and protects against data loss.**
+**Il permet à l'utilisateur de stocker toutes les données du projet sur le serveur distant et protège contre la perte de données.**
 
-<p><h2>Login to the DOOR43 server</h2></p>
+<p><h2>Connexion au serveur DOOR43</h2></p>
 
-**Steps**
+**Étapes**
 
-- Click on the **SYNC** button On the left side of the screen
-- Click **Register Now**. Fill in all the fields on the DOOR43 registration page, then click **Register Account**
-- The user recieves a link in the mail Id given
-- Click on the link and confirm the password again to activate the user account
-- Now, login with the username and password on the **Sribe Sync page**
+- Cliquer sur le bouton **Synchroniser** sur le côté gauche de l'écran
+- Cliquez sur **S'inscrire maintenant**. Remplissez tous les champs sur la page d'inscription DOOR43, puis cliquez sur **Enregistrer le compte**
+- L'utilisateur reçoit un lien dans l'identifiant de courriel fourni
+- Cliquez sur le lien et confirmez à nouveau le mot de passe pour activer le compte utilisateur
+- Maintenant, connectez-vous avec le nom d'utilisateur et le mot de passe sur la **Sribe Synchroniser page**
 <video controls src="/assets/Logintotheserver.mov" width="100%" type="video/mov">
 
-<p><h2>Cloud Sync</h2></p>
+<p><h2>Synchronisation dans le Cloud</h2></p>
 
-**Steps**
+**Étapes**
 
-- Enter a valid username and password to access your DOOR 43 account
-- Select the project you wish to work on, from the **SYNC** pane
-- After selecting the desired project click the **CLOUD SYNC** button on the SYNC pane
-- A progress bar will appear, showing the status and completion of the **sync** process
-- Once the project is successfully synced, it will be listed at the bottom of the **CLOUD PROJECTS** pane
+- Entrez un nom d'utilisateur et un mot de passe valides pour accéder à votre compte DOOR 43
+- Sélectionnez le projet sur lequel vous souhaitez travailler, à partir du volet **Synchroniser**
+- Après avoir sélectionné le projet désiré, cliquez sur le bouton **Synchroniser** sur le volet SYNC
+- Une barre de progression va apparaître, montrant l'état et la finalisation du processus **Synchronisation**
+- Une fois le projet synchronisé avec succès, il sera listé au bas du volet **Projets sur le cloud**
 
 <video controls src="/assets/cloudsync.mov" width="100%" type="video/mp4">
 
-<p><h2>Creating a backup when merging a project from the server</h2></p>
+<p><h2>Créer une sauvegarde lors de la fusion d'un projet à partir du serveur</h2></p>
 
-**<i>This is for the project managers and administrators</i>**
+**<i>Ceci est pour les gestionnaires de projet et les administrateurs</i>**
 
-**Steps**
+**Étapes**
 
-- Go to the folder **Appdata** in the system setting
-- Open your project backup folder to see your backups
-- To retrieve the previous data, copy and paste the data into the project folder
+- Allez dans le dossier **Appdata** dans le paramètre système
+- Ouvrez le dossier de sauvegarde de votre projet pour voir vos sauvegardes
+- Pour récupérer les données précédentes, copiez et collez les données dans le dossier projet
 
 <video controls src="/assets/backups.mov" width="100%" type="video/mov">
 <p> </p>
 
 *Note*
- - When we perform a **Sync** merge operation, a backup is added to the backup folder, and the maximum number of backups is currently 5, with the older backups being rolled out from the list
- - An error for conflicting project data may occur when importing projects back into Scribe. Scribe does not handle it automatically
- - When the user receives an error message, it must be resolved by the user
+ - Lorsque nous effectuons une opération de fusion **Synchroniser** , une sauvegarde est ajoutée au dossier de sauvegarde, et le nombre maximum de sauvegardes est actuellement de 5, les anciennes sauvegardes étant déployées depuis la liste
+ - Une erreur pour des données de projet conflictuelles peut se produire lors de l'importation de nouveaux projets dans Scribe. Le Scribe ne le gère pas automatiquement
+ - Lorsque l'utilisateur reçoit un message d'erreur, il doit être résolu par l'utilisateur

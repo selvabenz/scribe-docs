@@ -1,17 +1,17 @@
 ---
 id: p5-5-Sync
-sidebar_label: Sync
-title: Sync
+sidebar_label: Synchroniser
+title: Synchroniser
 ---
 
-The **Sync** button enable the users to sync the project within the editor pane itself.
+Le bouton **Synchroniser** permet aux utilisateurs de synchroniser le projet dans le volet de l'éditeur lui-même.
 
-**Steps to Sync the project**
+**Étapes pour synchroniser le projet**
 
-- Click the **Sync** button <img src="/assets/cloudsyncbutton.png" alt="Windows Icon" width="50px" /> above the editor pane
-- A dialogue box opens
-    - If the user has not signed in Go to the main Sync page Sign in to Door 43 account
-    - If already signed in Choose the user name for Door 43 Click Sync button
+- Cliquez sur le bouton **Synchroniser** <img src="/assets/cloudsyncbutton.png" alt="Windows Icon" width="50px" /> au-dessus du volet de l'éditeur
+- Une boîte de dialogue s'ouvre
+    - Si l'utilisateur n'est pas connecté en Allez à la page de synchronisation principale Connectez-vous au compte Door 43
+    - Si déjà connecté à Choisissez le nom d'utilisateur pour la porte 43 Cliquez sur le bouton Synchroniser
 
 <video controls src="/assets/projectsync.mov" width="100%" type="video/mp4">
 
