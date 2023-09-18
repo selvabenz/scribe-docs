@@ -4,7 +4,7 @@ sidebar_label: Barre de menu
 title: Barre de menu
 ---
 
-The top navigation bar contains a menu on the left side, offering options such as File, Edit, and About.
+La barre de navigation supérieure contient un menu sur le côté gauche, offrant des options telles que Fichier, Édition et About.
 
 **FILE**
 
