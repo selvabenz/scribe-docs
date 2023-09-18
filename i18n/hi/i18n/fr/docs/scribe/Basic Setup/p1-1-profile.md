@@ -1,14 +1,14 @@
 ---
 id: p1-1-profile
-sidebar_label: Profile
-title: Profile
+sidebar_label: Profil
+title: Profil
 ---
 
-**Profile** page has the all the information about the user. All data input is optional and is stored locally on your computer.
+La page **Profil** contient toutes les informations sur l'utilisateur. Toutes les données saisies sont optionnelles et stockées localement sur votre ordinateur.
 
-- On the projects page, on the top right side there is a **Profile** icon
-- Click on your **Profile** to add necessary information
-- Click **Save** button to save the information
+- Sur la page des projets, en haut à droite il y a une icône **Profil**
+- Cliquez sur votre **profil** pour ajouter les informations nécessaires
+- Cliquez sur le bouton **Enregistrer** pour enregistrer les informations
 
 
 
