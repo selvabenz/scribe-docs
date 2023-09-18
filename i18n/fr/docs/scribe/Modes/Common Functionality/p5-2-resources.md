@@ -1,10 +1,10 @@
 ---
 id: p5-2-resources
-sidebar_label: Resources
-title: Resources
+sidebar_label: Ressources
+title: Ressources
 ---
 
-Text Bible Translation
+Traduction de la Bible textuelle
 
 **RESOURCES**
 
