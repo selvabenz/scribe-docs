@@ -1,13 +1,13 @@
 ---
 id: p5-4-font size
-sidebar_label: Font Size
-title: Font Size
+sidebar_label: Taille de police
+title: Taille de police
 ---
 
-Steps to change the Font Size of your project
+Étapes pour modifier la taille de la police de votre projet
 
-- Find the **text** icon <img src="/assets/font-size.png" width="50px" alt="" /> on the top right corner of the **Translation column**
-- Select the small letter A to make the font size smaller
-- Select the big letter A to make the font size larger
+- Recherchez **l'icône **de texte dans le coin supérieur droit de la **colonne Traduction.**
+- Sélectionnez la petite lettre A pour réduire la taille de la police
+- Sélectionnez la grande lettre A pour agrandir la taille de la police
 
 <video controls src="/assets/change-font.mov" width="100%" type="video/mov">
