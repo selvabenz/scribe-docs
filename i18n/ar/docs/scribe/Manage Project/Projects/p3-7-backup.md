@@ -1,48 +1,48 @@
 ---
-id: p3-7-backup
-sidebar_label: Sync Backup
-title: Sync Backup
+id: نسخة احتياطية p3-7-
+sidebar_label: مزامنة النسخ الاحتياطي
+title: مزامنة النسخ الاحتياطي
 ---
 
-**It enables the user to store all project data on the remote server and protects against data loss.**
+**وهو يمكّن المستخدم من تخزين جميع بيانات المشروع على الخادم البعيد ويحمي من فقدان البيانات.**
 
-<p><h2>Login to the DOOR43 server</h2></p>
+<p><h2>تسجيل الدخول إلى خادم DOOR43</h2></p>
 
-**Steps**
+**الخطوات**
 
-- Click on the **SYNC** button On the left side of the screen
-- Click **Register Now**. Fill in all the fields on the DOOR43 registration page, then click **Register Account**
-- The user recieves a link in the mail Id given
-- Click on the link and confirm the password again to activate the user account
-- Now, login with the username and password on the **Sribe Sync page**
+- انقر على الزر **SYNC** على الجانب الأيسر من الشاشة
+- انقر فوق **سجل الآن**. ملء جميع الحقول في صفحة التسجيل DOOR43، ثم انقر فوق **سجل الحساب**
+- يستقبل المستخدم رابط في معرف البريد المعطى
+- انقر على الرابط وتأكيد كلمة المرور مرة أخرى لتفعيل حساب المستخدم
+- الآن، قم بتسجيل الدخول باسم المستخدم وكلمة المرور على صفحة مزامنة **Sribe**
 <video controls src="/assets/Logintotheserver.mov" width="100%" type="video/mov">
 
-<p><h2>Cloud Sync</h2></p>
+<p><h2>المزامنة السحابية</h2></p>
 
-**Steps**
+**الخطوات**
 
-- Enter a valid username and password to access your DOOR 43 account
-- Select the project you wish to work on, from the **SYNC** pane
-- After selecting the desired project click the **CLOUD SYNC** button on the SYNC pane
-- A progress bar will appear, showing the status and completion of the **sync** process
+- أدخل اسم مستخدم وكلمة مرور صالحين للوصول إلى حساب DOR 43 الخاص بك
+- حدد المشروع الذي ترغب في العمل عليه، من لوحة **SYNC**
+- بعد تحديد المشروع المطلوب انقر فوق الزر **كلاوت SYNC** على لوحة SYNC
+- سيظهر شريط التقدم، يظهر حالة واكتمال عملية المزامنة ****
 - Once the project is successfully synced, it will be listed at the bottom of the **CLOUD PROJECTS** pane
 
 <video controls src="/assets/cloudsync.mov" width="100%" type="video/mp4">
 
-<p><h2>Creating a backup when merging a project from the server</h2></p>
+<p><h2>إنشاء نسخة احتياطية عند دمج مشروع من الخادم</h2></p>
 
-**<i>This is for the project managers and administrators</i>**
+**<i>هذا بالنسبة لمديري المشاريع ومديريها</i>**
 
-**Steps**
+**الخطوات**
 
-- Go to the folder **Appdata** in the system setting
-- Open your project backup folder to see your backups
-- To retrieve the previous data, copy and paste the data into the project folder
+- الذهاب إلى المجلد **Appdata** في إعدادات النظام
+- افتح مجلد النسخ الاحتياطي لمشروعك لرؤية النسخ الاحتياطي الخاص بك
+- لاسترداد البيانات السابقة، قم بنسخ ولصق البيانات في مجلد المشروع
 
 <video controls src="/assets/backups.mov" width="100%" type="video/mov">
 <p> </p>
 
-*Note*
- - When we perform a **Sync** merge operation, a backup is added to the backup folder, and the maximum number of backups is currently 5, with the older backups being rolled out from the list
- - An error for conflicting project data may occur when importing projects back into Scribe. Scribe does not handle it automatically
- - When the user receives an error message, it must be resolved by the user
+*ملاحظة*
+ - عندما نقوم بعملية دمج **مزامنة** يتم إضافة نسخة احتياطية إلى مجلد النسخ الاحتياطي، ويبلغ الحد الأقصى لعدد النسخ الاحتياطية حاليا 5، مع نشر النسخ الاحتياطية القديمة من القائمة
+ - قد يحدث خطأ لبيانات المشروع المتضاربة عند استيراد المشاريع مرة أخرى إلى سكريب. التسجيل لا يتعامل معه تلقائياً
+ - عندما يتلقى المستخدم رسالة خطأ، يجب أن يتم حلها من قبل المستخدم
