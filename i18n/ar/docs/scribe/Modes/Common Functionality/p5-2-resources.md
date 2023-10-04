@@ -1,73 +1,73 @@
 ---
-id: p5-2-resources
-sidebar_label: Resources
-title: Resources
+id: p5-2-موارد
+sidebar_label: الموارد
+title: الموارد
 ---
 
-Text Bible Translation
+ترجمة إنجيل النص
 
-**RESOURCES**
+**الموارد**
 
-**Scribe** offers a variety of translation resources to help translators with their work. In addition to the available online resources on Scribe, the translator can upload files from local storage as a reference for his translation work.
+يوفر **Scribe** مجموعة متنوعة من موارد الترجمة لمساعدة المترجمين في عملهم. بالإضافة إلى الموارد المتاحة على الإنترنت في سكريبي، يمكن للمترجم رفع الملفات من التخزين المحلي كمرجع لأعمال الترجمة التي يقوم بها.
 
-Scribe assists translators in gaining access to the best resources in as many languages as possible and completing translation projects with speed and quality.
-
-
-**TYPES OF RESOURCES**
-
-The following resources are available on Scribe
-
-<h3>BIBLE</h3>
-
-There are three tabs once you click on the Bible:
-
-**BIBLE, RESOURCE, COLLECTION**
-
-**<i>To download the Bible of your choice,</i>**  **RESOURCE**
-- click on the *Resource* tab
-- Choose the Bible you want to download
-- Select the download icon
-
-The downloaded Bible will appear at the top of the list. This allows you to keep track of the resources that have been downloaded. You can also choose a Bible by entering information such as Language and type into the window provided in the Resource section. By clicking on the Bible tab, you will be able to access the downloaded Bible for reference.
-
-**<i>To upload resources from local,</i>**  **COLLECTION**
-
-You can also refer to resources from your local computer by uploading them to Scribe.
-- Click on the *collection* tab to import resources from local storage
-- Click on *Select Folder*
-- Select the file from your PC that you want to upload
-- Select the upload option You'll be able to see the file if you click the Bible tab.
+Scribe يساعد المترجمين على الوصول إلى أفضل الموارد بأكبر عدد ممكن من اللغات وإكمال مشاريع الترجمة بسرعة وجودة.
 
 
-**TRANSLATION NOTES**
+**أنواع الموارد**
 
-Scribe currently supports Translation Notes in different languages.
+الموارد التالية متوفرة على Scribe
 
-**TRANSLATION WORDS LIST**
+<h3>بيبيلي</h3>
 
-This section offers a list of key biblical terms.
+هناك ثلاثة علامات تبويب بمجرد النقر على الكتاب المقدس:
 
-**TRANSLATION WORDS**
+**بيع، موارد، تجميل**
 
-The list of translation words is divided into three categories:
+**<i>لتحميل الكتاب المقدس الذي تختاره،</i>**  **RESOURCE**
+- انقر فوق علامة التبويب **
+- اختر الكتاب المقدس الذي تريد تنزيله
+- حدد رمز التحميل
 
-**KT-Key Terms** - This list includes a number of important words from the Bible, along with definitions, translation suggestions, Bible references, and word data.
+الإنجيل الذي تم تنزيله سيظهر في الجزء العلوي من القائمة. هذا يسمح لك بتتبع الموارد التي تم تنزيلها. يمكنك أيضا اختيار الكتاب المقدس عن طريق إدخال معلومات مثل اللغة والنوع في النافذة المقدمة في قسم الموارد. بالضغط على علامة التبويب الكتاب المقدس، ستتمكن من الوصول إلى الكتاب المقدس الذي تم تنزيله للرجوع إليه.
 
-**Names** - This list contains facts, Bible references, examples from Bible stories, and word data about people in the Bible.
+**<i>لتحميل الموارد من المحلية،</i>**  **COLECTION**
 
-**Other** – This is a list of additional Bible terms. The definition, Bible references, and word data are all included in the list.
+يمكنك أيضا الرجوع إلى الموارد من جهاز الكمبيوتر المحلي الخاص بك عن طريق تحميلها إلى سكريب.
+- انقر فوق علامة تبويب المجموعة ** لاستيراد الموارد من التخزين المحلي
+- انقر فوق *اختر المجلد*
+- حدد الملف من جهاز الكمبيوتر الخاص بك الذي تريد رفعه
+- حدد خيار الرفع ستتمكن من رؤية الملف إذا قمت بالنقر على علامة التبويب الكتاب المقدس.
 
-**TRANSLATION QUESTION**
 
-This resource category contains questions that are designed to help translators in analyzing and understanding specific Bible books.
+**ملاحظات الشحن**
 
-**TRANSLATION ACADEMY**
+سجل حاليا يدعم ملاحظات الترجمة بلغات مختلفة.
 
-Translation Academy is a resource for Bible translation information and instruction for translators.
+**قائمة الحلقات التدريبية**
+
+يقدم هذا القسم قائمة بالمصطلحات الرئيسية في الكتاب المقدس.
+
+**أعمال الترحيل**
+
+وقائمة كلمات الترجمة مقسمة إلى ثلاث فئات:
+
+**KT-Key Terms** - تتضمن هذه القائمة عددا من الكلمات الهامة من الإنجيل، إلى جانب التعاريف واقتراحات الترجمة والمراجع الإنجيلية وبيانات الكلمات.
+
+**الاسم** - هذه القائمة تحتوي على حقائق، مراجع الكتاب المقدس، أمثلة من قصص الكتاب المقدس، وبيانات كلمات عن الناس في الكتاب المقدس.
+
+**** - هذه قائمة مصطلحات الإنجيل الإضافية. وترد في القائمة جميع البيانات المتعلقة بالتعريف، والإحالات إلى الإنجيل، والكلمات.
+
+**سؤال النقل**
+
+تحتوي فئة الموارد هذه على أسئلة مصممة لمساعدة المترجمين في تحليل وفهم كتب إنجيل محددة.
+
+**النقل على سبيل المثال**
+
+وتمثل أكاديمية الترجمة موردا للمعلومات المتعلقة بالترجمة الإنجيلية وتعليمات المترجمين.
 
 <video controls src="/assets/resource-types.mov" width="100%" type="video/mov">
 
-To import a resource, follow the steps below.
+لاستيراد مورد ما، قم باتباع الخطوات أدناه.
 
 
 <video controls src="/assets/import-resources.mov" width="100%" type="video/mov">
@@ -75,42 +75,42 @@ To import a resource, follow the steps below.
 
 
 
-<h3>OPEN BIBLE STORIES (OBS)</h3>
+<h3>افتح نماذج بيضاء (OBS)</h3>
 
-Open Bible Stories is a collection of key Bible stories available for translation in easy-to-understand text.
+قصص الكتاب المقدس المفتوحة هي مجموعة من قصص الكتاب المقدس الرئيسية المتاحة للترجمة في نص سهل الفهم.
 
-There are three tabs once you click on the Open Bible Stories
+هناك ثلاثة علامات تبويب بمجرد النقر على قصص الكتاب المقدس المفتوحة
 
-**OBS, RESOURCE, COLLECTION**
+**OBS, RESOURC, التجميع**
 
-**<i>To download the Bible story of your choice,</i>** **RESOURCE**
+**<i>لتحميل قصة الكتاب المقدس التي تختارها،</i>** **RESOURCE**
 
-- Click on the *Resource* tab
-- Choose the story you want to download
-- Select the download icon
+- انقر فوق علامة التبويب **
+- اختر القصة التي تريد تنزيلها
+- حدد رمز التحميل
 
-The downloaded Bible story will appear at the top of the list. This allows you to keep track of the resources that have been downloaded. You can also choose a Bible story by entering information such as Language and type into the window provided in the Resource section. By clicking on the OBS tab, you will be able to access the downloaded Bible story for reference.
+ستظهر قصة الكتاب المقدس المحملة في الجزء العلوي من القائمة. هذا يسمح لك بتتبع الموارد التي تم تنزيلها. يمكنك أيضا اختيار قصة الكتاب المقدس عن طريق إدخال معلومات مثل اللغة والنوع في النافذة المقدمة في قسم الموارد. بالضغط على علامة التبويب OBS، سوف تكون قادراً على الوصول إلى قصة الكتاب المقدس المحملة للرجوع إليها.
 
-**<i>To upload resources from local,</i>** **COLLECTION**
+**<i>لتحميل الموارد من المحلية،</i>** **COLECTION**
 
-You can also refer to resources from your local computer by uploading them to **Scribe**.
+يمكنك أيضا الرجوع إلى الموارد من جهاز الكمبيوتر المحلي الخاص بك عن طريق تحميلها إلى **Scribe**.
 
-- Click on the *collection* tab to import resources from local storage
-- Click on **Select Folder**
-- Select the file from your PC that you want to upload
-- Select the upload option You'll be able to see the file if you click the OBS tab.
+- انقر فوق علامة تبويب المجموعة ** لاستيراد الموارد من التخزين المحلي
+- انقر فوق **اختر المجلد**
+- حدد الملف من جهاز الكمبيوتر الخاص بك الذي تريد رفعه
+- حدد خيار الرفع ستتمكن من رؤية الملف إذا قمت بالنقر على علامة التبويب OBS.
 
-**OBS TRANSLATION NOTES**
+**ملاحظات نقل OBS**
 
-OBS translation notes provide interpretive information for stories to assist translators with their translation work.
+وتوفر ملاحظات ترجمة OBS معلومات شفوية للقصص لمساعدة المترجمين التحريريين في أعمال الترجمة التحريرية.
 
-**OBS TRANSLATION QUESTIONS**
+**أسئلة نقل OBS**
 
-These questions allow translators to determine whether the intended meaning is clearly communicated to the audience.
+وتسمح هذه الأسئلة للمترجمين بتحديد ما إذا كان المعنى المقصود يتم إبلاغه بوضوح إلى الجمهور.
 
-**OBS TRANSLATION WORDS LIST**
+**قائمة البحث في OBS**
 
-This section offers a list of key biblical terms. To import a resource, follow the steps below.
+يقدم هذا القسم قائمة بالمصطلحات الرئيسية في الكتاب المقدس. لاستيراد مورد ما، قم باتباع الخطوات أدناه.
 <p> </p>
 
 <video controls src="/assets/adding-resources.mov" width="100%" type="video/mov">
