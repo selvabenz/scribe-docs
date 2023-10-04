@@ -1,21 +1,21 @@
 ---
-id: p3-5-export project
-sidebar_label: Export Project
-title: Export project
+id: مشروع p3-5 تصدير
+sidebar_label: تصدير المشروع
+title: تصدير المشروع
 ---
 
-**Steps to Export a Project**
+**خطوات لتصدير مشروع**
 
-- Choose a project to **Export** from the list on the Project Page
-- Click the downward pointing arrow to see a dropdown menu with the project description
-- Click on the three dots menu with options
-  - Edit
-  - Export
-  - Archive
-- Select **Export** to export the project to a local device
-- A dialog box will be displayed, enter the desired file path
-- Click **Export**
-- After a successful export, a notification will appear at the bottom left side of the screen, confirming that the project has been exported successfully
+- اختر مشروعاً ل **تصدير** من القائمة على صفحة المشروع
+- انقر على السهم الموجه نحو الأسفل لرؤية قائمة منسدلة مع وصف المشروع
+- انقر على قائمة النقاط الثلاث مع الخيارات
+  - تحرير
+  - تصدير
+  - أرشيف
+- حدد **تصدير** لتصدير المشروع إلى جهاز محلي
+- سيتم عرض مربع الحوار، أدخل مسار الملف المطلوب
+- انقر **تصدير**
+- بعد تصدير ناجح، سيظهر إشعار في الجزء السفلي الأيسر من الشاشة، يؤكد أن المشروع قد تم تصديره بنجاح
 
 
 <video controls src="/assets/exportfile.mov" width="100%" type="video/mov">
