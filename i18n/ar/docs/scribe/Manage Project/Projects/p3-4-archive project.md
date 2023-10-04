@@ -1,28 +1,28 @@
 ---
-id: p3-4-archive project
-sidebar_label: Archive Project
-title: Archive Project
+id: مشروع p3-4 الأرشيف
+sidebar_label: مشروع الأرشيف
+title: مشروع الأرشيف
 ---
 
-**Scribe** discourages deletion to prevent any inadvertent data loss. As an alternative, it allows users to Archive projects which would not show up in the main listing of projects anymore. Archived projects maybe restored at any point. Though discouraged, power users may delete archived projects completely from the disk location outside the application. Backups of the archived projects are maintained by **scribe**.
+**Scribe** يثني عن الحذف لمنع أي خسارة غير مقصودة للبيانات. وكبديل لذلك، يسمح للمستخدمين بأرشيف المشاريع التي لن تظهر في القائمة الرئيسية للمشاريع بعد الآن. المشاريع المؤرشفة ربما يتم استعادتها في أي نقطة. وعلى الرغم من عدم التشجيع على ذلك، فقد يحذف مستخدمو الطاقة المشاريع المحفوظة في الأرشيف كليا من موقع القرص خارج التطبيق. يتم الحفاظ على النسخ الاحتياطية للمشاريع المؤرشفة بواسطة **scribe**.
 
-**Steps to archive the project**
-- Select a project from the list to **Archive**
-- Click the downward pointing arrow to see a dropdown menu with the project description
-- Click on the three dots menu with options
-   - Edit
-   - Export
-   - Archive
-- Select the **Archive** to save the project for future reference
+**خطوات لأرشفة المشروع**
+- حدد مشروعاً من القائمة إلى **أرشيف**
+- انقر على السهم الموجه نحو الأسفل لرؤية قائمة منسدلة مع وصف المشروع
+- انقر على قائمة النقاط الثلاث مع الخيارات
+   - تحرير
+   - تصدير
+   - أرشيف
+- حدد **أرشيف** لحفظ المشروع للمرجع في المستقبل
 
-**Steps to restore the Archived project**
+**خطوات لاستعادة المشروع المؤرشف**
 
-- Click the Archived button in the top right corner
-- The archived files list appears
-- Choose the Project you want to activate
-- Then, select **Restore** by pressing the downward pointing arrow
+- انقر فوق الزر المؤرشف في الزاوية اليمنى العليا
+- تظهر قائمة الملفات المؤرشفة
+- اختر المشروع الذي تريد تفعيله
+- ثم حدد **الاستعادة** بالضغط على السهم الذي يشير إلى الأسفل
 
-The Archive appears in the Sidebar once you archive at least one note. Notes in the Archive do not appear in search results elsewhere, but you can select the Archive section and search its notes. If you have, archived notes will sync between your devices.
+الأرشيف يظهر في الشريط الجانبي بمجرد أرشفة ملاحظة واحدة على الأقل. الملاحظات في الأرشيف لا تظهر في نتائج البحث في مكان آخر، ولكن يمكنك تحديد قسم الأرشيف والبحث في ملاحظاته. إذا كان لديك ملاحظات المؤرشفة ستتم مزامنة بين أجهزتك.
 
 <video controls src="/assets/softdelete.mov" width="100%" type="video/mov">
 
