@@ -1,23 +1,23 @@
 ---
-id: p0-2-system requirement
-sidebar_label: System Requirements
-title: System Requirements
+id: p0-2 متطلبات النظام
+sidebar_label: متطلبات النظام
+title: متطلبات النظام
 ---
 
-**Supported System**
+**النظام المدعوم**
 
-**Scribe** is supported by the following operating systems
+**Scribe** مدعوم من أنظمة التشغيل التالية
 
-- Windows 10 and above
-- Ubuntu 18.04 and above
-- Mac OS 10.15 and above
+- ويندوز 10 وما فوق
+- أوبونتو 18-04 وما فوقها
+- نظام تشغيل Mac 10.15 وما فوق
 
-**System Requirements**
+**متطلبات النظام**
 
-- Minimum 2 GB free disk space
-- Internet connectivity (Required for syncing and downloading references)
-- Keep the application updated with the latest version of **Scribe** ([download Scribe](https://github.com/bible-technology/scribe-scripture-editor/releases))
-- Write to us at scribe@bridgeconn.com to contact our technical team if you experience any difficulties during installation
+- الحد الأدنى 2 جيغابايت مساحة خالية من القرص
+- الاتصال بالإنترنت (مطلوب للمزامنة والتنزيل)
+- الحفاظ على تحديث التطبيق مع أحدث إصدار من **Scribe** ([تحميل Scribe](https://github.com/bible-technology/scribe-scripture-editor/releases))
+- اكتب إلينا على scribe@bridgeconn.com للاتصال بفريقنا التقني إذا واجهتك أي صعوبات أثناء التثبيت
 - You can raise an issue to report bugs and suggestions on the GitHub page ([create issue](https://github.com/bible-technology/scribe-scripture-editor/issues))
 <!-- - To ensure your system supports the target language, download the needed **font** on your device.  -->
-- Use full screen for effective use of the application
+- استخدام الشاشة الكاملة للاستخدام الفعال للتطبيق
