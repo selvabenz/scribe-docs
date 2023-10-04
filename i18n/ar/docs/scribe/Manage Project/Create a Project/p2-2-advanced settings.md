@@ -1,27 +1,27 @@
 ---
-id: p2-2-advanced settings
-sidebar_label: Advanced Setiings
-title: Advanced Settings
+id: إعدادات p2-متقدمة
+sidebar_label: تعبيرات متقدمة
+title: الإعدادات المتقدمة
 ---
 
-The **Advanced Settings** allow the user to edit more specific project details, for example, scope, versification scheme, and license.
+يتيح **الإعدادات المتقدمة** للمستخدم تحرير تفاصيل المشروع الأكثر تحديدا، على سبيل المثال، النطاق، مخطط التنويع، والترخيص.
 
-- **Scope**
+- **النطاق**
 
-  - This feature allows the user to choose what book of the Bible they want to work on
-  - The user can choose all books from the Old testament, the New testament, or all books of the Bible, or they can customize the number of books they wish to work on
+  - هذه الميزة تسمح للمستخدم باختيار كتاب الكتاب المقدس الذي يريد العمل عليه
+  - يمكن للمستخدم اختيار جميع الكتب من الشهادة القديمة، الشهادة الجديدة، أو جميع كتب الكتاب المقدس، أو يمكنهم تخصيص عدد الكتب التي يرغبون في العمل عليها
 
-- **Versification Scheme**
+- **مخطط التصفية**
 
-  -  Each language may have a different versification scheme based on various translation decisions
-  -  **Scribe** supports popular versification schemes used in the Bible
-  - You can choose between All books, Old Testament, and New Testament in the advanced settings
+  -  قد يكون لكل لغة نظام تنوع مختلف يستند إلى قرارات الترجمة المختلفة
+  -  يدعم **Scribe** مخططات التنويع الشعبية المستخدمة في الكتاب المقدس
+  - يمكنك الاختيار بين جميع الكتب، العهد القديم، والعهد الجديد في الإعدادات المتقدمة
 
 
-- **License**
+- **الترخيص**
 
-  -  This feature allows users to select a domain
-  -  **Scribe** encourages users to select a public domain so that Bible translations may be accessible to the general public
-  -  To save changes, make sure to click on the **Save** button on the bottom left side of the screen
+  -  هذه الميزة تسمح للمستخدمين بتحديد نطاق
+  -  **Scribe** يشجع المستخدمين على اختيار المجال العام بحيث يمكن أن تكون ترجمات الكتاب المقدس متاحة لعامة الجمهور
+  -  لحفظ التغييرات، تأكد من النقر على زر **حفظ** في الجزء السفلي الأيسر من الشاشة
 
 <video controls src="/assets/advanced-settings.mov" width="100%" type="video/mov">
