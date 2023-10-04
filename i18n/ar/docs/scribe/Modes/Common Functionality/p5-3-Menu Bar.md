@@ -1,15 +1,15 @@
 ---
-id: p5-3-menu bar
-sidebar_label: Menu Bar
-title: Menu Bar
+id: شريط القوائم p5-3-
+sidebar_label: شريط القائمة
+title: شريط القائمة
 ---
 
-The top navigation bar contains a menu on the left side, offering options such as File, Edit, and About.
+يحتوي شريط التنقل العلوي على قائمة على الجانب الأيسر، يقدم خيارات مثل File و Edit، و About.
 
-**FILE**
+**فضح**
 
-The **File** menu is located on the top left side of the **Translation Column.** Click on the **File** feature to view your **bookmarks** or change the text font.
-<img src="/AutographaV2-1-0/filemenu.png"  width="1000px" alt="file menu" />
+القائمة **File** موجودة في الجزء العلوي الأيسر من عمود الترجمة **.** انقر على الميزة **** لعرض العلامة **** أو تغيير خط النص.
+<img src="/AutographaV2-1-0/filemenu.png"  width="1000px" alt="قائمة الملفات" />
 
 
 <!-- **EDIT** 
@@ -22,6 +22,6 @@ At the moment, **Scribe** only supports “S” editing or “Section Headings.�
 
 
 
-**ABOUT**
+**من**
 
-The **About** feature is located on the top left side of the **Translation column**, next to the **Edit** feature. The **About** feature provides information about **Scribe Scripture version** and discloses **Scribe’s license** and **source code.** <img src="/AutographaV2-1-0/about.png"  width="1000px" alt="about" />
+خاصية **حول** موجودة في الجزء العلوي الأيسر من عمود الترجمة ****، بجوار خاصية **تحرير**. توفر ميزة **حول** معلومات حول **سكريبي الإصدار** وتكشف عن **رخصة سكريبي** و **التعليمات البرمجية المصدرية.** <img src="/AutographaV2-1-0/about.png"  width="1000px" alt="حول" />
