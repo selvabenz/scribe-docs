@@ -1,41 +1,41 @@
 ---
-id: p0-4-create a new account
-sidebar_label: Create a New Account
-title: Create a New Account
+id: p0-4-إنشاء حساب جديد
+sidebar_label: إنشاء حساب جديد
+title: إنشاء حساب جديد
 ---
 
-In order to start translating with the help of **Scribe** application, the user must have an account.
+من أجل بدء الترجمة بمساعدة تطبيق **Scribe** ، يجب أن يكون لدى المستخدم حساب.
 
-**Steps to create an account**
+**خطوات لإنشاء حساب**
 
-- Open the **Scribe** application installed on the computer
+- افتح تطبيق **Scribe** المثبت على الكمبيوتر
 - Choose **CREATE NEW ACCOUNT** button
-- In the pop-up window that appears, enter the user name and click **CREATE**
-- The user's account will be created, and the user can start using the **Scribe** application
+- في النافذة المنبثقة التي تظهر ، أدخل اسم المستخدم وانقر فوق **إنشاء**
+- سيتم إنشاء حساب المستخدم، ويمكن للمستخدم البدء في استخدام تطبيق **Scribe**
 
-**For existing users**
+**للمستخدمين الحاليين**
 
-- If you already have an account, sign in by selecting your username from the View More menu
-- This opens the **PROJECTS Page** for the users to work in **Scribe**
+- إذا كان لديك حساب بالفعل، قم بتسجيل الدخول عن طريق تحديد اسم المستخدم الخاص بك من قائمة عرض المزيد
+- هذا يفتح صفحة **PROJECTS** للمستخدمين للعمل في **Scribe**
 
 <video controls src="/assets/signing-in.mov" width="100%" type="video/mov">
 
-<h2>Sign in function </h2>
+<h2>خاصية تسجيل الدخول </h2>
 
-**Scribe** enables multiple users on the same computer to use the same application while maintaining separate project data. It can be difficult to locate the project and user name when multiple users are using the same computer To assist with this, there is a **View More** option on the **Sign In** page. This feature allows users to choose between **active** and **inactive users**.
+**Scribe** يمكن مستخدمين متعددين على نفس الكمبيوتر لاستخدام نفس التطبيق مع الحفاظ على بيانات مشروع منفصلة. قد يكون من الصعب تحديد موقع المشروع واسم المستخدم عندما يستخدم مستخدمون متعددون نفس الكمبيوتر للمساعدة في ذلك، هناك خيار **عرض أكثر** على صفحة **تسجيل الدخول**. هذه الميزة تسمح للمستخدمين بالاختيار بين **النشط** و **المستخدمين غير النشطين**.
 
-**Steps**
-- Click on the **View More** button
-- There are two options on the page, **Active**  and **Archived**
-- The list of the Active users is displayed in the **Active** section
-- You can Archive the Inactive users by clicking the delete button next to the user name
-- The chosen user name will be **Archived**
+**الخطوات**
+- انقر فوق زر **عرض المزيد**
+- هناك خياران على الصفحة، **نشط**و **مؤرشفة**
+- يتم عرض قائمة المستخدمين النشطين في قسم **Active**
+- يمكنك أرشفة المستخدمين غير النشطين بالنقر على زر الحذف بجانب اسم المستخدم
+- اسم المستخدم المختار سيكون **أرشيف**
 
-**To restore the Archived user name**
-- Click on **View More**
-- Select the **Archive** tab
-- A list of Archived user names appears
-- Next to the user name, click the **Restore** icon
-- The selected user name appears in the **Active** list
+**لاستعادة اسم المستخدم المؤرشفة**
+- انقر فوق **عرض المزيد**
+- حدد علامة التبويب **أرشيف**
+- تظهر قائمة بأسماء المستخدمين المؤرشفة
+- بعد اسم المستخدم، انقر فوق أيقونة **استعادة**
+- اسم المستخدم المحدد يظهر في قائمة **النشط**
 
 <video controls src="/assets/sigindeleteaechive.mov" width="100%" type="video/mov">
