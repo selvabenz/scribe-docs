@@ -1,13 +1,13 @@
 ---
-id: p1-3-notifications
-sidebar_label: Notifications
-title: Notifications
+id: p1-3-الإشعارات
+sidebar_label: الإشعارات
+title: الإشعارات
 ---
 
-- Click on the **bell** icon <img src="/assets/notification.png" width="30px" alt="" /> at the top right side of the screen next to the **New Layout** icon
-  - Here you will find a list of **Notifications**
-  - Each type of notification will have a different color
+- Click on the **bell** icon <img src="/assets/notification.png" width="30px" alt="" /> عند الجانب الأيمن العلوي للشاشة بجوار أيقونة **A الجديدة**
+  - هنا سوف تجد قائمة من **الإشعارات**
+  - كل نوع من الإشعارات سيكون له لون مختلف
 
-To return to the main page, click on the <—— arrow on the top left side of the screen.
-<img src="/AutographaV2-1-0/notification1.png"  width="1000px" alt="notification" />
-<img src="/AutographaV2-1-0/notification2.png"  width="1000px" alt="notification" />
+للعودة إلى الصفحة الرئيسية، انقر على <- - السهم على الجانب الأيسر العلوي من الشاشة.
+<img src="/AutographaV2-1-0/notification1.png"  width="1000px" alt="إشعار" />
+<img src="/AutographaV2-1-0/notification2.png"  width="1000px" alt="إشعار" />
