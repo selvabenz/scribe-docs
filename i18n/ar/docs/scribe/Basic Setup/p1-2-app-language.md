@@ -1,22 +1,22 @@
 ---
-id: p1-2-app-language
-sidebar_label: App Language
-title: App Language
+id: لغة التطبيق p1-2
+sidebar_label: لغة التطبيق
+title: لغة التطبيق
 ---
 
-**How to use App Language**
+**كيفية استخدام لغة التطبيق**
 
-- Go to the **Profile** icon on the top right side of the screen
-- Click and select  **Your Profile**
-- Choose the language you want to work in from the App language drop-down menu
+- انتقل إلى أيقونة الملف الشخصي **** على الجانب الأيمن العلوي من الشاشة
+- انقر وحدد  **ملفك الشخصي**
+- اختر اللغة التي تريد العمل بها من القائمة المنسدلة للغة التطبيق
 
-**Scribe supports the following languages**
-  - English
-  - Hindi
-  - Russian
+**Scribe يدعم اللغات التالية**
+  - الإنكليزية
+  - الهندية
+  - الروسية
   - Farsi
-  - French
+  - الفرنسية
   - Nepali
-- Click **Save** button to save the changes
+- انقر فوق زر **حفظ** لحفظ التغييرات
 
-<img src="/assets/applanguage.png"  width="1000px" alt="project listing" />
+<img src="/assets/applanguage.png"  width="1000px" alt="قائمة المشروع" />
