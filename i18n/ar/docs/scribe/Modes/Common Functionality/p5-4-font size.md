@@ -4,10 +4,10 @@ sidebar_label: Font Size
 title: Font Size
 ---
 
-Steps to change the Font Size of your project
+خطوات لتغيير حجم الخط لمشروعك
 
-- Find the **text** icon <img src="/assets/font-size.png" width="50px" alt="" /> on the top right corner of the **Translation column**
-- Select the small letter A to make the font size smaller
-- Select the big letter A to make the font size larger
+- ابحث عن أيقونة **** <img src="/assets/font-size.png" width="50px" alt="" /> في الجزء العلوي الأيمن من عمود الترجمة ****
+- حدد الحرف الصغير A لجعل حجم الخط أصغر
+- حدد الحرف الكبير A لجعل حجم الخط أكبر
 
 <video controls src="/assets/change-font.mov" width="100%" type="video/mov">
