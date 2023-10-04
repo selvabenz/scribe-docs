@@ -1,15 +1,15 @@
 ---
 id: p0-1-what-is-scribe
-sidebar_label: What is Scribe SE?
-title: What is Scribe SE?
+sidebar_label: ما هو Scribe SE؟
+title: ما هو Scribe SE؟
 slug: '/'
 ---
 
-**Scribe Scripture Editor** is an easy-to-use Bible translation tool designed to empower mother tongue translators to quickly and efficiently complete various tasks related to Bible translation with minimal training.
+**محرر سكريبي** هو أداة ترجمة إنجيل سهلة الاستخدام مصممة لتمكين مترجمي اللغة الأم من إكمال مختلف المهام المتعلقة بالترجمة الإنجيلية بسرعة وكفاءة مع الحد الأدنى من التدريب.
 
 
-**Scribe SE** supports different flavours such as Bible Translation, Open Bible Stories (OBS) and Oral Bible Translation (Audio). Bible translations from the source text can be drafted and edited with the help of **Scribe**. Additionally, it allows translators to import and export [Scripture Burrito](https://docs.burrito.bible/) format, it also allows importing USFM files from the local system. Users can work on multiple projects simultaneously.
+يدعم **Scribe SE** نكهات مختلفة مثل الترجمة الإنجيلية، وقصص الإنجيل المفتوحة (OBS) وترجمة الإنجيل الشفوي (صوت). ترجمات الكتاب المقدس من النص المصدر يمكن صياغتها وتحريرها بمساعدة **Scribe**. وبالإضافة إلى ذلك، فإنه يسمح للمترجمين باستيراد وتصدير صيغة [Scripture Burrito](https://docs.burrito.bible/) ، كما يسمح باستيراد ملفات USFM من النظام المحلي. يمكن للمستخدمين العمل في مشاريع متعددة في وقت واحد.
 
-  Multiple reference panels are available for the translator to use when looking for information or seeking clarity in the source text. In resource panes the translator can load different resources like Bibles, translation notes, translation words list, translation words, translation questions, translation academy, Open Bible Stories, OBS translation notes, OBS translation question, OBS translation words list and Audio Bible resources as reference material.
+  ولوحات مرجعية متعددة متاحة للمترجم لاستخدامها عند البحث عن معلومات أو التماس الوضوح في النص المصدر. في لوحات الموارد يمكن للمترجم تحميل موارد مختلفة مثل الإنجيل ، ملاحظات الترجمة ، قائمة كلمات الترجمة ، كلمات الترجمة ، أسئلة الترجمة أكاديمية الترجمة، قصص الكتاب المقدس، ملاحظات ترجمة OBS، سؤال ترجمة OBS، قائمة كلمات ترجمة OBS ومصادر الإنجيل الصوتي كمادة مرجعية.
 
-*Note*: **The Scribe Scripture Editor (Scribe SE) will hereafter be referred to as Scribe in this document.**
+*Note*: **محرر سكريب (Scribe SE) سيشار إليه فيما يلي باسم Scribe في هذا المستند.**
