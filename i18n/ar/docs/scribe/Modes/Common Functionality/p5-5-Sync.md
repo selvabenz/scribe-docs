@@ -1,17 +1,17 @@
 ---
-id: p5-5-Sync
-sidebar_label: Sync
-title: Sync
+id: p5-5-مزامنة
+sidebar_label: مزامنة
+title: مزامنة
 ---
 
-The **Sync** button enable the users to sync the project within the editor pane itself.
+الزر **مزامنة** يمكن المستخدمين من مزامنة المشروع داخل لوحة التحرير نفسها.
 
-**Steps to Sync the project**
+**خطوات لمزامنة المشروع**
 
-- Click the **Sync** button <img src="/assets/cloudsyncbutton.png" alt="Windows Icon" width="50px" /> above the editor pane
-- A dialogue box opens
-    - If the user has not signed in Go to the main Sync page Sign in to Door 43 account
-    - If already signed in Choose the user name for Door 43 Click Sync button
+- انقر فوق الزر **** <img src="/assets/cloudsyncbutton.png" alt="Windows Icon" width="50px" /> فوق لوحة المحرر
+- فتح صندوق حوار
+    - إذا لم يسجل المستخدم في انتقل إلى صفحة المزامنة الرئيسية تسجيل الدخول إلى حساب الباب 43
+    - إذا تم تسجيل الدخول مسبقا اختر اسم المستخدم للباب 43 انقر فوق زر المزامنة
 
 <video controls src="/assets/projectsync.mov" width="100%" type="video/mp4">
 
