@@ -1,14 +1,14 @@
 ---
-id: p1-1-profile
-sidebar_label: Profile
-title: Profile
+id: p1-ملف شخصي
+sidebar_label: الملف الشخصي
+title: الملف الشخصي
 ---
 
-**Profile** page has the all the information about the user. All data input is optional and is stored locally on your computer.
+الصفحة **الملف الشخصي** تحتوي على جميع المعلومات حول المستخدم. جميع البيانات المدخلة اختيارية ويتم تخزينها محليا على حاسوبك.
 
-- On the projects page, on the top right side there is a **Profile** icon
-- Click on your **Profile** to add necessary information
-- Click **Save** button to save the information
+- في صفحة المشاريع، على الجانب الأيمن العلوي هناك أيقونة ****
+- انقر على الملف الشخصي **** لإضافة المعلومات الضرورية
+- انقر فوق زر **حفظ** لحفظ المعلومات
 
 
 
