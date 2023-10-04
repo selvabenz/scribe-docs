@@ -1,23 +1,23 @@
 ---
-id: p3-3-import project
-sidebar_label: Import Project
-title: Import Project
+id: مشروع p3-3 استيراد
+sidebar_label: استيراد المشروع
+title: استيراد المشروع
 ---
 
-**Scribe** provides users with the functionality to import [Scripture Burrito](https://docs.burrito.bible/) validated projects directly from the local devices.
+يوفر **Scribe** للمستخدمين وظيفة استيراد [المشاريع التي تم التحقق من صحتها في بورريتو](https://docs.burrito.bible/) مباشرة من الأجهزة المحلية.
 
-**Steps to Import a Project**
+**خطوات لاستيراد مشروع**
 
-- On the project page, click on the **Import** button located at the top right side
-- Select a folder from local device using the dialogue box that displays
-- Choose the desired folder for import and click on **Select Folder**
-- The dialogue box will display project details, including the Scripture Burrito directory, Project and language name, and project type
-- You will also see a message confirming the successful validation of the Burrito with the green tick mark, as Scribe only permits the import of Scripture Burrito files
-- Click **Import** to proceed
-- On a successful project import, a pop-up message will appear at the bottom left side, indicating that the project has been successfully imported
-- If the project already exists, a verification message will appear, asking whether you want to replace the existing project file. If you wish to overwrite the file, click on **Replace**
+- في صفحة المشروع، انقر على زر **استيراد** الموجود في الجانب الأيمن العلوي
+- حدد مجلد من الجهاز المحلي باستخدام مربع الحوار الذي يعرض
+- اختر المجلد المطلوب للاستيراد وانقر على **حدد المجلد**
+- سيعرض مربع الحوار تفاصيل المشروع، بما في ذلك دليل برتو للمشروع، واسم المشروع واللغة، ونوع المشروع
+- كما سترى رسالة تؤكد النجاح في التحقق من صحة البوريتو مع علامة الدكتورة الخضراء، كـ Scribe يسمح فقط باستيراد ملفات برتو سكريبت
+- انقر فوق **استيراد** للمتابعة
+- في عملية استيراد ناجحة للمشروع، ستظهر رسالة منبثقة على الجانب الأيسر السفلي، مما يشير إلى أن المشروع قد تم استيراده بنجاح
+- إذا كان المشروع موجود بالفعل، ستظهر رسالة تحقق، تسأل ما إذا كنت ترغب في استبدال ملف المشروع الحالي. إذا كنت ترغب في الكتابة فوق الملف، انقر فوق **استبدال**
 
-Note: **Scribe** allows to **Import** and **Export** USFM (Unified Standard Format Markers) files and MD files. It also supports TSV resources in OBS Translation Notes
+ملاحظة: يسمح **Scribe** لـ **استيراد** و **تصدير** USFM (علامات التنسيق القياسي الموحد) والملفات MD. يدعم أيضا موارد TSV في ملاحظات ترجمة OBS
 
 
 <video controls src="/assets/importbfile.mov" width="100%" type="video/mov">
