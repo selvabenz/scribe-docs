@@ -1,128 +1,128 @@
 ---
-id: p3-6-sync
-sidebar_label: Sync Collabration
-title: Sync Collabration
+id: p3-6 مزامنة
+sidebar_label: تزامن العمل
+title: تزامن العمل
 ---
 
-**It enables multiple user to Collabrate remotely**
+**تمكين مستخدم متعدد إلى Collabrate عن بعد**
 
-<p><h2>Login to the DOOR43 server</h2></p>
+<p><h2>تسجيل الدخول إلى خادم DOOR43</h2></p>
 
-**Steps**
+**الخطوات**
 
-- Click on the **SYNC** button On the left side of the screen
-- Click **Register Now**. Fill in all the fields on the DOOR43 registration page, then click **Register Account**
-- The user recieves a link in the mail Id given
-- Click on the link and confirm the password again to activate the user account
-- Now, login with the username and password on the **Sribe Sync page**
+- انقر على الزر **SYNC** على الجانب الأيسر من الشاشة
+- انقر فوق **سجل الآن**. ملء جميع الحقول في صفحة التسجيل DOOR43، ثم انقر فوق **سجل الحساب**
+- يستقبل المستخدم رابط في معرف البريد المعطى
+- انقر على الرابط وتأكيد كلمة المرور مرة أخرى لتفعيل حساب المستخدم
+- الآن، قم بتسجيل الدخول باسم المستخدم وكلمة المرور على صفحة مزامنة **Sribe**
 <video controls src="/assets/Logintotheserver.mov" width="100%" type="video/mov">
 
-<p><h2>Cloud Sync</h2></p>
+<p><h2>المزامنة السحابية</h2></p>
 
-**Steps**
+**الخطوات**
 
-- Enter a valid username and password to access your DOOR 43 account
-- Select the project you wish to work on, from the **SYNC** pane
-- After selecting the desired project click the **CLOUD SYNC** button on the SYNC pane
-- A progress bar will appear, showing the status and completion of the **sync** process
+- أدخل اسم مستخدم وكلمة مرور صالحين للوصول إلى حساب DOR 43 الخاص بك
+- حدد المشروع الذي ترغب في العمل عليه، من لوحة **SYNC**
+- بعد تحديد المشروع المطلوب انقر فوق الزر **كلاوت SYNC** على لوحة SYNC
+- سيظهر شريط التقدم، يظهر حالة واكتمال عملية المزامنة ****
 - Once the project is successfully synced, it will be listed at the bottom of the **CLOUD PROJECTS** pane
 
 <video controls src="/assets/cloudsync.mov" width="100%" type="video/mp4">
 
 
 
-<p><h2>Offline Sync</h2></p>
+<p><h2>مزامنة بدون اتصال</h2></p>
 
-**Steps**
+**الخطوات**
 
-- Enter a valid username and password to access your DOOR 43 account
-- In the CLOUD PROJECTS pane, enter the project owner's username in the specified field
-- Choose the project you wish to download to your local system
-- The selected project will be filtered, and the CLOUD PROJECTS pane will show the **OFFLINE SYNC** button
+- أدخل اسم مستخدم وكلمة مرور صالحين للوصول إلى حساب DOR 43 الخاص بك
+- في لوحة CLOUD PROJECTS، أدخل اسم المستخدم لمالك المشروع في الحقل المحدد
+- اختر المشروع الذي تريد تنزيله إلى النظام المحلي الخاص بك
+- سيتم تصفية المشروع المحدد، وستظهر لوحة مشاريع كلاوت الزر **SYNC**
 - By clicking the **OFFLINE SYNC** button, you can download the project to your local system
-- The downloaded project will appear in the **SYNC** pane
-- To edit the downloaded project, navigate to the PROJECTS page and choose the downloaded project
+- المشروع الذي تم تنزيله سيظهر في الجزء **SYNC**
+- لتحرير المشروع الذي تم تنزيله، انتقل إلى صفحة PROJECTS واختر المشروع الذي تم تنزيله
 
 <video controls src="/assets/offlinesync.mov" width="100%" type="video/mp4">
 
 
 
 <n>
-## Contribute to a shared project</n>
+## المساهمة في مشروع مشترك</n>
 
-**Steps**
+**الخطوات**
 
-**Project owner**
+**مالك المشروع**
 
-- The project owner has to login to DOOR43, https://git.door43.org/
-- Select the Project to **collaborate**
-- Click on the **collaborator** tab
-- Add the names of the collaborators
-- Select **Add Collaborator**
+- يجب على مالك المشروع تسجيل الدخول إلى DOOR43, https://git.door43.org/
+- حدد المشروع ل **التعاون**
+- انقر فوق علامة التبويب ****
+- إضافة أسماء المتعاونين
+- حدد **إضافة متعاون**
 - Give access to the collaborator either as **Administrator, Write, or Read**
 
-**Collaborator**
+**متعاون**
 
-- Go to the **Sync** page
-- Login to the DOOR43 account
-- The user/collaborator can then enter the project owner's name in the given field on the Sync page of Scribe
-- Select the project to work
+- انتقل إلى صفحة **المزامنة**
+- تسجيل الدخول إلى حساب DOOR43
+- يمكن للمستخدم/المتعاون بعد ذلك إدخال اسم مالك المشروع في الحقل المعطى على صفحة المزامنة من Scribe
+- حدد المشروع للعمل
 - Click on **offline sync** on the top right side
-- The project will be synced to Scribe
-- A notification stating 'project sync to scribe successful' will appear in the bottom left side
-- The project has now been set up for work
+- سيتم مزامنة المشروع إلى Scribe
+- سيظهر في أسفل الجانب الأيسر إشعار يشير إلى 'مزامنة المشروع للنشر'
+- وقد أنشئ المشروع الآن من أجل العمل.
 
 <video controls src="/assets/collabsync.mov" width="100%" type="video/mp4">
 
 
 
-<p><h2>How to sync a project</h2></p>
+<p><h2>كيفية مزامنة مشروع</h2></p>
 
-**Steps**
+**الخطوات**
 
-- Click on the **Sync** button on the left side of the window (If you are a new user, Create a new account in DOOR43)
-- Login to the DOOR43 account in the sync page
-- A list of all user projects will appear on the left of the sync window
-- The right side of the screen will display all projects saved on the DOOR43 remote server
-- Drag and drop a project to the container placed on the right side of the screen
-- On the top of the screen, the user can see the uploading progress bar
-- The project will then be uploaded to the DOOR43 remote server and displayed to the user in the right-hand column of the screen
+- انقر على زر **مزامنة** على الجانب الأيسر من النافذة (إذا كنت مستخدم جديد، إنشاء حساب جديد في DOOR43)
+- تسجيل الدخول إلى حساب DOOR43 في صفحة المزامنة
+- ستظهر قائمة بجميع مشاريع المستخدم على اليسار من نافذة المزامنة
+- الجانب الأيمن من الشاشة سوف يعرض جميع المشاريع المحفوظة على الخادم البعيد DOOR43
+- سحب وإسقاط مشروع إلى الحاوية الموضوعة على الجانب الأيمن من الشاشة
+- في الجزء العلوي من الشاشة، يمكن للمستخدم رؤية شريط التقدم
+- سيتم تحميل المشروع بعد ذلك إلى الخادم البعيد DOOR43 وعرضه على المستخدم في العمود الأيمن من الشاشة
 <video controls src="/assets/syncaproject.mov" width="100%" type="video/mp4">
 
-<p><h2>Sync a project from the project module</h2></p>
+<p><h2>مزامنة مشروع من وحدة المشروع</h2></p>
 
-A project can be directly synced by the user from the project module.
+يمكن مزامنة المشروع مباشرة من قبل المستخدم من وحدة المشروع.
 
-**Steps**
+**الخطوات**
 
-- Click on the project module and open a project
-- Click the **Sync** button
-- The uploading progress bar will be displayed at the top
-- (Login to the DOOR43 server if you are not done yet)
+- انقر على وحدة المشروع وفتح المشروع
+- انقر فوق زر ****
+- سيتم عرض شريط التقدم في التحميل في الجزء العلوي
+- (تسجيل الدخول إلى خادم DOOR43 إذا لم تنته بعد)
 <video controls src="/assets/projectsync.mov" width="100%" type="video/mp4">
 
-<p><h2>Sync back a project from the DOOR43 remote server</h2></p>
+<p><h2>مزامنة مشروع من الخادم البعيد DOOR43</h2></p>
 
-The user can **Sync** a project from the server to the local system. Ensure that the project file is not in the local system otherwise the project file will get mergerd into the local system.
+The user can **Sync** a project from the server to the local system. تأكد من أن ملف المشروع ليس في النظام المحلي وإلا سيتم دمج ملف المشروع في النظام المحلي.
 
-**Steps**
+**الخطوات**
 
-- Click on the **Sync** button Login to the DOOR43 account on the right side of the column
-- It lists every project on the door 43 server
-- (The project should not be saved)
-- Drag and drop a project from the DOOR43 server list into the container on the left side of the screen
-- With this, a project will be synced back from the server
+- انقر فوق زر **مزامنة** تسجيل الدخول إلى حساب DOOR43 على الجانب الأيمن من العمود
+- وهو يورد كل مشروع على باب 43 خادوم
+- (لا ينبغي حفظ المشروع)
+- سحب وإسقاط مشروع من قائمة خادم DOOR43 إلى الحاوية على الجانب الأيسر من الشاشة
+- مع هذا، سيتم مزامنة المشروع مرة أخرى من الخادم
 
 <video controls src="/assets/syncback.mov" width="100%" type="video/mov">
 
-<p><h2>Merge a project from the DOOR43 remote server</h2></p>
+<p><h2>دمج مشروع من الخادم البعيد DOOR43</h2></p>
 
-**Steps**
+**الخطوات**
 
-- Click on the **Sync** button,login to the DOOR43 account
-- It displays all the projects in the door 43 server at the right side of the column
-- Drag and drop a project from the DOOR43 server list into the container on the left side of the screen
-- The progress bar will appear
-- (You can undo the merging process by clicking the undo button before counting down to an end)
-- This will merge a project from the server
+- انقر فوق زر **مزامنة** ، تسجيل الدخول إلى حساب DOOR43
+- يعرض جميع المشاريع في خادم الباب 43 على الجانب الأيمن من العمود
+- سحب وإسقاط مشروع من قائمة خادم DOOR43 إلى الحاوية على الجانب الأيسر من الشاشة
+- سيظهر شريط التقدم
+- (يمكنك التراجع عن عملية الدمج بالنقر على زر التراجع قبل العد التنازلي إلى نهاية)
+- سيؤدي هذا إلى دمج مشروع من الخادم
 <video controls src="/assets/merge.mov" width="100%" type="video/mov">
