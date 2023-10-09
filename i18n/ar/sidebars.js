@@ -1,69 +1,69 @@
 module.exports = {
   Sribe: [
     {
-      type: 'category',
-      label: 'Getting-Started',
+      type: 'الفئة',
+      label: 'بدء',
       items: [
-        'scribe/Getting-Started/p0-1-what-is-scribe',
-        'scribe/Getting-Started/p0-2-system requirement',
-        'scribe/Getting-Started/p0-3-installation',
-        'scribe/Getting-Started/p0-4-create a new account'
+        'scribe/Getting-started/p0-1-what-is-scribe',
+        'متطلبات scribe/Getting-started/p0-2-نظام',
+        'سكريب/سكريبتين-بدء/p0-3 تثبيت',
+        'scribe/Getting-started/p0-4-إنشاء حساب جديد'
       ]
     },
     {
-      type: 'category',
-      label: 'Basic Setup',
+      type: 'الفئة',
+      label: 'الإعداد الأساسي',
       items: [
-        'scribe/Basic Setup/p1-1-profile',
-        'scribe/Basic Setup/p1-2-app-language',
-        'scribe/Basic Setup/p1-3-notifications'
+        'ملف scribe/Basic الإعداد/p1-1',
+        'سكريبي/إعداد أساسي/p1-2-لغة التطبيق',
+        'سكريبي/إعداد أساسي/p1-3-الإشعارات'
       ]
     },
     {
-      type: 'category',
-      label: 'Manage Project',
+      type: 'الفئة',
+      label: 'إدارة المشروع',
       items: [
         {
           'Create a Project': [
-            'scribe/Manage Project/Create a Project/p2-1-new project',
-            'scribe/Manage Project/Create a Project/p2-2-advanced settings'
+            'سكريب/إدارة المشروع/إنشاء مشروع/p2-1-جديد',
+            'سكريب/إدارة المشروع/إنشاء مشروع/p2-2 إعدادات متقدمة'
           ]
         },
         {
           'Projects': [
-            'scribe/Manage Project/Projects/p3-1-projects',
-            'scribe/Manage Project/Projects/p3-2-edit project details',
-            'scribe/Manage Project/Projects/p3-3-import project',
-            'scribe/Manage Project/Projects/p3-4-archive project',
-            'scribe/Manage Project/Projects/p3-5-export project',
-            'scribe/Manage Project/Projects/p3-6-sync',
-            'scribe/Manage Project/Projects/p3-7-backup'
+            'سكريب/إدارة المشروع/المشاريع/p3-1-المشاريع',
+            'سكريب/إدارة المشروع/المشاريع/p3-2-تحرير تفاصيل المشروع',
+            'مشروع/مشروع/مشروع/p3-استيراد',
+            'مشروع/مشروع/مشروع/p3-4 أرشيف',
+            'مشروع/مشروع/مشروع/p3-5 تصدير',
+            'سكريب/إدارة المشروع/المشاريع/p3-6 المزامنة',
+            'سكريب/إدارة المشروع/المشاريع/p3-7-النسخ الاحتياطي'
           ]
         }
       ]
     },
     {
-      type: 'category',
-      label: 'Modes',
+      type: 'الفئة',
+      label: 'أوضاع',
       items: [
         'scribe/Modes/p4-1-overview',
         {
           'Common Functionality': [
-            'scribe/Modes/Common Functionality/p5-1-layout',
-            'scribe/Modes/Common Functionality/p5-2-resources',
-            'scribe/Modes/Common Functionality/p5-3-menu bar',
-            'scribe/Modes/Common Functionality/p5-4-font size',
+            'سكريبي/رمز/وظيفة مشتركة / p5-1-تخطيط',
+            'سكريبي/كودات/الوظيفة الشائعة/p5-2-موارد',
+            'شريط السكربي/الكود/الدوال الشائع/p5-3-القائمة',
+            'سكريبي/تعليمات/وظيفة مشتركة / p5-4-حجم الخط',
             'scribe/Modes/Common Functionality/p5-5-Sync'
           ]
         },
         {
           'Text Bible Translation (BT)': [
-            'scribe/Modes/Text Bible Translation/p6-1-editing text',
-            'scribe/Modes/Text Bible Translation/p6-2-navigationlock',
-            'scribe/Modes/Text Bible Translation/p6-3-bookmarks'
+            'النص المكتوب/مديات/نصوص الترجمة المكتوبة / p6-1-تحرير النص',
+            'سكريبي/مديات/نص الترجمة الإنجيلية/p6-2-الملاحة',
+            'سكريبي/Modes/Text الكتاب المقدس/p6-3-الإشارات المرجعية'
           ]
         },
-        { 'Oral Bible Translation (OBT)': ['scribe/Modes/Oral Bible Translation/p7-1-audio toolbar'] },
+        { 'Oral Bible Translation (OBT)': ['شريط أدوات الكتابة/الأدوات/الإنجيل الشفوي/p7-1-صوت'] },
         { 'Open Bible Stories (OBS)': ['scribe/Modes/Open Bible Stories/p8-1-drafting'] }
       ]
     },
@@ -73,9 +73,9 @@ module.exports = {
     //   id: 'scribe/p10-1-more info',
     // },
     {
-      type: 'doc',
-      label: 'Technical Support',
-      id: 'scribe/p11-1-technical support'
+      type: 'دوك',
+      label: 'الدعم التقني',
+      id: 'سكريب/p11-1-الدعم التقني'
     }
   ]
 };
