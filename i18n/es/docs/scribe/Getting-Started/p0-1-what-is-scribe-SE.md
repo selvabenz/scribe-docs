@@ -1,11 +1,11 @@
 ---
 id: p0-1-what-is-scribe
-sidebar_label: What is Scribe SE?
-title: What is Scribe SE?
+sidebar_label: '¿Qué es Scribe SE?'
+title: '¿Qué es Scribe SE?'
 slug: '/'
 ---
 
-**Scribe Scripture Editor** is an easy-to-use Bible translation tool designed to empower mother tongue translators to quickly and efficiently complete various tasks related to Bible translation with minimal training.
+**Scribe Scripture Editor** es una herramienta de traducción bíblica fácil de usar diseñada para empoderar a los traductores de lengua materna para completar de forma rápida y eficiente varias tareas relacionadas con la traducción bíblica con una formación mínima.
 
 
 **Scribe SE** supports different flavours such as Bible Translation, Open Bible Stories (OBS) and Oral Bible Translation (Audio). Bible translations from the source text can be drafted and edited with the help of **Scribe**. Additionally, it allows translators to import and export [Scripture Burrito](https://docs.burrito.bible/) format, it also allows importing USFM files from the local system. Users can work on multiple projects simultaneously.
