@@ -1,14 +1,14 @@
 ---
-id: Perfil
+id: p1-1-profile
 sidebar_label: Perfil
 title: Perfil
 ---
 
-La página **Perfil** contiene toda la información acerca del usuario. All data input is optional and is stored locally on your computer.
+La página **Perfil** contiene toda la información acerca del usuario. Todos los datos introducidos son opcionales y se almacenan localmente en su ordenador.
 
-- On the projects page, on the top right side there is a **Profile** icon
-- Click on your **Profile** to add necessary information
-- Click **Save** button to save the information
+- En la página de proyectos, en la parte superior derecha hay un icono de **Perfil**
+- Haga clic en su **Perfil** para añadir la información necesaria
+- Haga clic en el botón **Guardar** para guardar la información
 
 
 
