@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Scribe-docs',
   tagline: 'Documentation for Scribe',
-  url: 'https://autographa-docs.netlify.app/',
+  url: 'https://selvabenz.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
