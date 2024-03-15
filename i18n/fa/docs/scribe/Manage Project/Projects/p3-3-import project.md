@@ -1,7 +1,7 @@
 ---
 id: p3-3-import project
-sidebar_label: Import Project
-title: Import Project
+sidebar_label: پروژه واردات
+title: پروژه واردات
 ---
 
 **Scribe** provides users with the functionality to import [Scripture Burrito](https://docs.burrito.bible/) validated projects directly from the local devices.
