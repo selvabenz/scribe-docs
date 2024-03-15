@@ -1,6 +1,6 @@
 ---
 id: p3-5-export project
-sidebar_label: Export Project
+sidebar_label: خروجی گرفتن از پروژه
 title: Export project
 ---
 
@@ -9,9 +9,9 @@ title: Export project
 - Choose a project to **Export** from the list on the Project Page
 - Click the downward pointing arrow to see a dropdown menu with the project description
 - Click on the three dots menu with options
-  - Edit
-  - Export
-  - Archive
+  - ویرایش
+  - اکسپورت
+  - بایگانی
 - Select **Export** to export the project to a local device
 - A dialog box will be displayed, enter the desired file path
 - Click **Export**
