@@ -1,7 +1,7 @@
 ---
 id: p1-1-profile
-sidebar_label: Profile
-title: Profile
+sidebar_label: Profil
+title: Profil
 ---
 
 **Profile** page has the all the information about the user. All data input is optional and is stored locally on your computer.
