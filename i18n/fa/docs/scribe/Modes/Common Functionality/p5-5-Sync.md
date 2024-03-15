@@ -1,7 +1,7 @@
 ---
 id: p5-5-Sync
-sidebar_label: Sync
-title: Sync
+sidebar_label: همگام‌سازی
+title: همگام‌سازی
 ---
 
 The **Sync** button enable the users to sync the project within the editor pane itself.
