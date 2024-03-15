@@ -10,9 +10,9 @@ title: Archive Project
 - Select a project from the list to **Archive**
 - Click the downward pointing arrow to see a dropdown menu with the project description
 - Click on the three dots menu with options
-   - Edit
-   - Export
-   - Archive
+   - ویرایش
+   - اکسپورت
+   - بایگانی
 - Select the **Archive** to save the project for future reference
 
 **Steps to restore the Archived project**
