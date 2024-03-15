@@ -1,7 +1,7 @@
 ---
 id: p5-1-layout
-sidebar_label: Layout
-title: Layout
+sidebar_label: Disposición
+title: Disposición
 ---
 
 For all three modes, **Scribe** enables the user to compare and refer to resources. **Scribe** supports up to three columns open at a time (including the editing column).
