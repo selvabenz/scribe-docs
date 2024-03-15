@@ -1,7 +1,7 @@
 ---
 id: p5-2-resources
-sidebar_label: Resources
-title: Resources
+sidebar_label: منابع
+title: منابع
 ---
 
 Text Bible Translation
