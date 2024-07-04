@@ -1,7 +1,7 @@
 ---
 id: p4-1-overview
-sidebar_label: جائزہ
-title: جائزہ
+sidebar_label: Overview
+title: Overview
 ---
 
 Scribes enables the translators to translate in three modes.
