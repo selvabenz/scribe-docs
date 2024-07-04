@@ -1,7 +1,7 @@
 ---
 id: p1-2-app-language
-sidebar_label: ایپ کی زبان
-title: ایپ کی زبان
+sidebar_label: App Language
+title: App Language
 ---
 
 **How to use App Language**
