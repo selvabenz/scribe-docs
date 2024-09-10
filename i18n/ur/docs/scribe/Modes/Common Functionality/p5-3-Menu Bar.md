@@ -24,4 +24,4 @@ At the moment, **Scribe** only supports “S” editing or “Section Headings.�
 
 **ABOUT**
 
-The **About** feature is located on the top left side of the **Translation column**, next to the **Edit** feature. The **About** feature provides information about **Scribe Scripture version** and discloses **Scribe’s license** and **source code.** <img src="/AutographaV2-1-0/about.png"  width="1000px" alt="متعلق" />
+The **About** feature is located on the top left side of the **Translation column**, next to the **Edit** feature. The **About** feature provides information about **Scribe Scripture version** and discloses **Scribe’s license** and **source code.** <img src="/AutographaV2-1-0/about.png"  width="1000px" alt="about" />
