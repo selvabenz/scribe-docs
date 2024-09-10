@@ -1,7 +1,7 @@
 ---
 id: p5-2-resources
-sidebar_label: وسیلہ
-title: وسیلہ
+sidebar_label: Resources
+title: Resources
 ---
 
 Text Bible Translation
